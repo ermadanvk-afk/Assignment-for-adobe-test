@@ -4,9 +4,18 @@
 [![Pydantic v2](https://img.shields.io/badge/pydantic-v2.12-green.svg)](https://docs.pydantic.dev/)
 [![Pipeline Tests](https://img.shields.io/badge/pytest-passing-success.svg)](https://pytest.org/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fermadanvk-afk%2FAssignment-for-adobe-test)
 
 > **Adobe PS: 1-Day Selection Assignment**  
 > Complete source-traced knowledge base and reproducible data pipeline for the **Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE)** program at the **Indian Institute of Technology Bhilai (IIT Bhilai)**, stopping right before the embedding step.
+
+---
+
+## 🚀 Live Interactive Web Dashboard
+
+- **1-Click Vercel Deploy**: Click the **Deploy with Vercel** button above or import repository `https://github.com/ermadanvk-afk/Assignment-for-adobe-test` at [vercel.com/new](https://vercel.com/new).
+- **GitHub Pages Live App**: [https://ermadanvk-afk.github.io/Assignment-for-adobe-test/](https://ermadanvk-afk.github.io/Assignment-for-adobe-test/) *(after enabling Pages in repo settings)*.
+
 
 ---
 

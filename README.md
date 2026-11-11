@@ -13,7 +13,9 @@
 
 ## 🚀 Live Interactive Web Dashboard
 
-- **1-Click Vercel Deploy**: Click the **Deploy with Vercel** button above or import repository `https://github.com/ermadanvk-afk/Assignment-for-adobe-test` at [vercel.com/new](https://vercel.com/new).
+- **Live Vercel Deployment**: [https://nimble-hawthorn-lt7vykw.tmp.now](https://nimble-hawthorn-lt7vykw.tmp.now)
+- **Claim & Persist to Your Vercel Account**: [Claim Deployment Link](https://vercel.com/claim-deployment?code=14d77ca5-fd6c-4369-8bff-23e4f085afbe) *(click to bind permanently to your personal Vercel team)*
+- **1-Click Permanent Vercel Deploy**: Click the **Deploy with Vercel** button above or import repository `https://github.com/ermadanvk-afk/Assignment-for-adobe-test` at [vercel.com/new](https://vercel.com/new).
 - **GitHub Pages Live App**: [https://ermadanvk-afk.github.io/Assignment-for-adobe-test/](https://ermadanvk-afk.github.io/Assignment-for-adobe-test/) *(after enabling Pages in repo settings)*.
 
 

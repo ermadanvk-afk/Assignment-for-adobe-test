@@ -1,0 +1,37 @@
+[
+  {
+    "id": "EX_DSA_01",
+    "skill": "SKILL_TREES_AND_HEAPS",
+    "difficulty": "medium",
+    "question": "Given an unbalanced Binary Search Tree with n nodes, explain how AVL tree rotations maintain the O(log n) height invariant upon inserting a key that causes an imbalance factor of +2 at node P with a left child having balance factor -1.",
+    "answer_key": "This corresponds to a Left-Right (LR) imbalance case. The restoration requires a double rotation: first a Left Rotation on the left child of P, converting the tree into a Left-Left (LL) case, followed immediately by a Right Rotation on node P. Both rotations update balance factors and restore strict AVL height balance in O(1) rotation time."
+  },
+  {
+    "id": "EX_ALGO_02",
+    "skill": "SKILL_DYNAMIC_PROGRAMMING",
+    "difficulty": "medium",
+    "question": "Formulate the Bellman recurrence relation for the 0/1 Knapsack Problem with capacity W and items (w_i, v_i). State the space complexity optimization technique.",
+    "answer_key": "Recurrence: DP[i, w] = DP[i-1, w] if w_i > w; else max(DP[i-1, w], DP[i-1, w - w_i] + v_i), with base case DP[0, w] = 0. Space can be optimized from O(n*W) to O(W) using a single 1D array traversed backwards from W down to w_i to avoid overwriting values needed from the previous iteration."
+  },
+  {
+    "id": "EX_OS_03",
+    "skill": "SKILL_OS_CONCURRENCY",
+    "difficulty": "hard",
+    "question": "Explain the four Coffman conditions necessary for a deadlock to occur. How does the Banker's algorithm prevent deadlock by denying requests that lead to unsafe states?",
+    "answer_key": "The four Coffman conditions are: 1. Mutual Exclusion, 2. Hold and Wait, 3. No Preemption, 4. Circular Wait. The Banker's algorithm runs a safety check before granting any resource allocation: it simulates allocating the requested resources and verifies whether there exists at least one sequence of process completions where all remaining claims (Need matrix <= Work vector) can be satisfied without deadlock."
+  },
+  {
+    "id": "EX_TOC_04",
+    "skill": "SKILL_AUTOMATA_THEORY",
+    "difficulty": "easy",
+    "question": "Use the Pumping Lemma for Regular Languages to demonstrate that L = {0^n 1^n | n >= 0} is not regular.",
+    "answer_key": "Assume L is regular with pumping length p. Choose string s = 0^p 1^p in L (|s| = 2p >= p). According to the lemma, s = xyz with |xy| <= p and |y| >= 1. Since |xy| <= p, y consists entirely of 0s (y = 0^k, k >= 1). Pumping with i = 2 gives xy^2z = 0^(p+k) 1^p. Since k >= 1, the number of 0s exceeds the number of 1s, so xy^2z is not in L, contradicting regularity. Thus, L is not regular."
+  },
+  {
+    "id": "EX_NET_05",
+    "skill": "SKILL_ROUTING_CONGESTION",
+    "difficulty": "medium",
+    "question": "In TCP Reno congestion control, what triggers Fast Retransmit and Fast Recovery, and how is the Congestion Window (cwnd) adjusted compared to a timeout event?",
+    "answer_key": "Fast Retransmit is triggered upon receiving 3 duplicate ACKs (4 identical ACKs total), signaling that a single packet was lost while subsequent packets arrived out-of-order. Instead of dropping cwnd to 1 MSS (as in a timeout), TCP Reno sets ssthresh = cwnd / 2, sets cwnd = ssthresh + 3 MSS (Fast Recovery), retransmits the missing segment, and increments cwnd by 1 MSS for each additional duplicate ACK received until an ACK acknowledging the new data arrives."
+  }
+]

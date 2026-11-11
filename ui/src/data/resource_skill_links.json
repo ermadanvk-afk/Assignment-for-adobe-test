@@ -1,0 +1,287 @@
+[
+  {
+    "resource": "RES_NPTEL_CS_01",
+    "skill": "SKILL_C_PROGRAMMING",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_NPTEL_CS_01",
+    "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_NPTEL_CS_02",
+    "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_02",
+    "skill": "SKILL_TREES_AND_HEAPS",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_03",
+    "skill": "SKILL_GRAPH_SEARCH",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_03",
+    "skill": "SKILL_DYNAMIC_PROGRAMMING",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_04",
+    "skill": "SKILL_OS_CONCURRENCY",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_04",
+    "skill": "SKILL_FILE_SYSTEMS",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_05",
+    "skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_05",
+    "skill": "SKILL_MEMORY_HIERARCHY",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_06",
+    "skill": "SKILL_AUTOMATA_THEORY",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_06",
+    "skill": "SKILL_COMPUTABILITY",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_07",
+    "skill": "SKILL_LEXICAL_PARSING",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_07",
+    "skill": "SKILL_CODE_GENERATION",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_08",
+    "skill": "SKILL_RELATIONAL_ALGEBRA",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_NPTEL_CS_08",
+    "skill": "SKILL_DATABASE_TRANSACTIONS",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_09",
+    "skill": "SKILL_NETWORK_PROTOCOLS",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_09",
+    "skill": "SKILL_ROUTING_CONGESTION",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_10",
+    "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_11",
+    "skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_NPTEL_CS_11",
+    "skill": "SKILL_PUBLIC_KEY_CRYPTO",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_NPTEL_CS_12",
+    "skill": "SKILL_DISCRETE_LOGIC",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_NPTEL_CS_12",
+    "skill": "SKILL_GRAPH_THEORY",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_01",
+    "skill": "SKILL_TREES_AND_HEAPS",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_01",
+    "skill": "SKILL_GRAPH_SEARCH",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_02",
+    "skill": "SKILL_DYNAMIC_PROGRAMMING",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_02",
+    "skill": "SKILL_NP_COMPLETENESS",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_03",
+    "skill": "SKILL_DIGITAL_LOGIC",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_03",
+    "skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_04",
+    "skill": "SKILL_OS_CONCURRENCY",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_04",
+    "skill": "SKILL_FILE_SYSTEMS",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_05",
+    "skill": "SKILL_COMPUTABILITY",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_05",
+    "skill": "SKILL_NP_COMPLETENESS",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_06",
+    "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_06",
+    "skill": "SKILL_REINFORCEMENT_LEARNING",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_MIT_OCW_07",
+    "skill": "SKILL_DISCRETE_LOGIC",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_07",
+    "skill": "SKILL_GRAPH_THEORY",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_MIT_OCW_08",
+    "skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_08",
+    "skill": "SKILL_PUBLIC_KEY_CRYPTO",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_09",
+    "skill": "SKILL_APPROXIMATION_ALGORITHMS",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_MIT_OCW_10",
+    "skill": "SKILL_LINUX_DEVOPS",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_STANFORD_01",
+    "skill": "SKILL_NETWORK_PROTOCOLS",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_STANFORD_01",
+    "skill": "SKILL_ROUTING_CONGESTION",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_STANFORD_02",
+    "skill": "SKILL_LEXICAL_PARSING",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_STANFORD_02",
+    "skill": "SKILL_CODE_GENERATION",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_STANFORD_03",
+    "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_STANFORD_03",
+    "skill": "SKILL_REINFORCEMENT_LEARNING",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_BERKELEY_01",
+    "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_BERKELEY_01",
+    "skill": "SKILL_TREES_AND_HEAPS",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_BERKELEY_02",
+    "skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_BERKELEY_03",
+    "skill": "SKILL_OS_CONCURRENCY",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_BERKELEY_04",
+    "skill": "SKILL_RELATIONAL_ALGEBRA",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_CMU_01",
+    "skill": "SKILL_DATABASE_TRANSACTIONS",
+    "level": "advanced"
+  },
+  {
+    "resource": "RES_NAND2TETRIS_01",
+    "skill": "SKILL_DIGITAL_LOGIC",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_NAND2TETRIS_01",
+    "skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "level": "intermediate"
+  },
+  {
+    "resource": "RES_HARVARD_CS50",
+    "skill": "SKILL_C_PROGRAMMING",
+    "level": "introductory"
+  },
+  {
+    "resource": "RES_HARVARD_CS50",
+    "skill": "SKILL_LINUX_DEVOPS",
+    "level": "introductory"
+  }
+]

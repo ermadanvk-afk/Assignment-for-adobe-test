@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MOD_CS100_01",
+    "parent_id": "CSL100",
+    "order": 1,
+    "title": "C Syntax & Control Flow",
+    "summary": "Primitives, arithmetic, I/O functions, conditional branching, iteration constructs (while, for loops)."
+  },
+  {
+    "id": "MOD_CS100_02",
+    "parent_id": "CSL100",
+    "order": 2,
+    "title": "Functions, Pointers & Memory",
+    "summary": "Function stack frames, recursion, pointer arithmetic, dynamic memory allocation (malloc, free), array-pointer duality."
+  },
+  {
+    "id": "MOD_CS201_01",
+    "parent_id": "CSL201",
+    "order": 1,
+    "title": "Propositional & Predicate Logic",
+    "summary": "Truth tables, logical equivalences, normal forms (CNF/DNF), universal and existential quantifiers, proof by induction."
+  },
+  {
+    "id": "MOD_CS201_02",
+    "parent_id": "CSL201",
+    "order": 2,
+    "title": "Combinatorics & Graph Theory",
+    "summary": "Pigeonhole principle, inclusion-exclusion, recurrence relations, graph representations, Euler and Hamiltonian paths, planar graphs."
+  },
+  {
+    "id": "MOD_CS202_01",
+    "parent_id": "CSL202",
+    "order": 1,
+    "title": "Linear Structures & Sorting",
+    "summary": "Dynamic arrays, linked lists, stacks, queues, amortized analysis, comparison sorts and non-comparison sorting."
+  },
+  {
+    "id": "MOD_CS202_02",
+    "parent_id": "CSL202",
+    "order": 2,
+    "title": "Hierarchical Structures & Graphs",
+    "summary": "Binary trees, AVL trees, Red-Black balance invariants, binary heaps, disjoint-set union, BFS and DFS traversals."
+  },
+  {
+    "id": "MOD_CS251_01",
+    "parent_id": "CSL251",
+    "order": 1,
+    "title": "Processor Datapath & ALU",
+    "summary": "Register transfer language, arithmetic logic unit circuits, instruction encoding, assembly programming."
+  },
+  {
+    "id": "MOD_CS251_02",
+    "parent_id": "CSL251",
+    "order": 2,
+    "title": "Pipelining & Memory Subsystems",
+    "summary": "5-stage RISC pipeline, structural/data/control hazards, branch prediction, direct-mapped and set-associative caches."
+  },
+  {
+    "id": "MOD_CS252_01",
+    "parent_id": "CSL252",
+    "order": 1,
+    "title": "Greedy & Dynamic Programming Paradigms",
+    "summary": "Optimal substructure, overlapping subproblems, memoization vs tabulation, knapsack, LCS, matrix chain multiplication."
+  },
+  {
+    "id": "MOD_CS252_02",
+    "parent_id": "CSL252",
+    "order": 2,
+    "title": "Advanced Graph Algorithms & Intractability",
+    "summary": "Shortest paths (Dijkstra, Bellman-Ford), Max Flow (Ford-Fulkerson, Edmonds-Karp), NP-completeness proofs and reductions."
+  },
+  {
+    "id": "MOD_CS253_01",
+    "parent_id": "CSL253",
+    "order": 1,
+    "title": "Regular Languages & Finite Automata",
+    "summary": "DFA, NFA, epsilon transitions, subset construction, regular expressions, pumping lemma for regular languages."
+  },
+  {
+    "id": "MOD_CS253_02",
+    "parent_id": "CSL253",
+    "order": 2,
+    "title": "Computability & Turing Machines",
+    "summary": "Context-free grammars, pushdown automata, Turing machines, halting problem undecidability, Rice's theorem."
+  },
+  {
+    "id": "MOD_CS301_01",
+    "parent_id": "CSL301",
+    "order": 1,
+    "title": "CPU Scheduling & Virtual Memory",
+    "summary": "Process state lifecycle, PCB, context switching, round robin/MLFQ, multilevel page tables, TLBs, clock page replacement."
+  },
+  {
+    "id": "MOD_CS301_02",
+    "parent_id": "CSL301",
+    "order": 2,
+    "title": "Concurrency & Storage Systems",
+    "summary": "POSIX threads, mutexes, condition variables, semaphores, deadlock detection, disk scheduling, inode-based file systems."
+  },
+  {
+    "id": "MOD_CS302_01",
+    "parent_id": "CSL302",
+    "order": 1,
+    "title": "Scanning & Parsing",
+    "summary": "Lexical tokens, regular expressions to DFA, LL(1) parse tables, LR(0), SLR(1), LALR(1) parsing algorithms using Yacc/Bison."
+  },
+  {
+    "id": "MOD_CS302_02",
+    "parent_id": "CSL302",
+    "order": 2,
+    "title": "Optimization & Code Generation",
+    "summary": "Static Single Assignment (SSA) form, dead code elimination, loop invariant code motion, register allocation via graph coloring."
+  },
+  {
+    "id": "MOD_CS303_01",
+    "parent_id": "CSL303",
+    "order": 1,
+    "title": "Relational Modeling & Query Languages",
+    "summary": "ER to relational schema mapping, tuple and domain relational calculus, relational algebra operators, complex SQL queries."
+  },
+  {
+    "id": "MOD_CS303_02",
+    "parent_id": "CSL303",
+    "order": 2,
+    "title": "Normalization & Transaction Recovery",
+    "summary": "Armstrong's axioms, 3NF synthesis, BCNF decomposition, strict two-phase locking, ARIES write-ahead logging."
+  },
+  {
+    "id": "MOD_CS304_01",
+    "parent_id": "CSL304",
+    "order": 1,
+    "title": "Heuristic Search & Adversarial Games",
+    "summary": "Admissible and consistent heuristics, A* optimality, alpha-beta minimax pruning, constraint satisfaction with AC-3."
+  },
+  {
+    "id": "MOD_CS304_02",
+    "parent_id": "CSL304",
+    "order": 2,
+    "title": "Probabilistic Reasoning & Reinforcement Learning",
+    "summary": "Bayesian networks, d-separation, variable elimination, Markov decision processes, Bellman optimality, tabular Q-learning."
+  },
+  {
+    "id": "MOD_CS351_01",
+    "parent_id": "CSL351",
+    "order": 1,
+    "title": "Transport Protocols & Congestion Management",
+    "summary": "TCP 3-way handshake, sliding window flow control, congestion window dynamics (AIMD, slow start, fast recovery, BBR)."
+  },
+  {
+    "id": "MOD_CS351_02",
+    "parent_id": "CSL351",
+    "order": 2,
+    "title": "Internet Routing & Data Link Technologies",
+    "summary": "CIDR, IPv4/IPv6 headers, link-state vs distance-vector routing, BGP peering, Ethernet CSMA/CD, Wi-Fi 802.11 CSMA/CA."
+  },
+  {
+    "id": "MOD_CSP352_01",
+    "parent_id": "CSP352",
+    "order": 1,
+    "title": "LLM Interfaces & Structured Tool Calling",
+    "summary": "Prompt patterns for software engineering, JSON schema enforcement, function calling registries, deterministic parsing."
+  },
+  {
+    "id": "MOD_CSP352_02",
+    "parent_id": "CSP352",
+    "order": 2,
+    "title": "Agentic Workflows & Safety Sandboxing",
+    "summary": "ReAct execution loops, multi-step error recovery, trace logging, human-in-the-loop approvals, sandboxed command execution."
+  }
+]

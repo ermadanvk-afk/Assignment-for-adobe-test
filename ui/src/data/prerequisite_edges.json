@@ -1,0 +1,194 @@
+[
+  {
+    "course": "CSL202",
+    "requires": "CSL100",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSP203",
+    "requires": "CSL100",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL251",
+    "requires": "CSL100",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL251",
+    "requires": "ECL101",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL252",
+    "requires": "CSL100",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL252",
+    "requires": "CSL201",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL252",
+    "requires": "CSL202",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL253",
+    "requires": "CSL201",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL253",
+    "requires": "CSL202",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL301",
+    "requires": "CSL202",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL301",
+    "requires": "CSL251",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL302",
+    "requires": "CSL251",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL302",
+    "requires": "CSL253",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL303",
+    "requires": "CSL202",
+    "kind": "recommended",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL304",
+    "requires": "CSL202",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL304",
+    "requires": "MAL403",
+    "kind": "recommended",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL351",
+    "requires": "CSL301",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSP352",
+    "requires": "CSL100",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSP352",
+    "requires": "CSP203",
+    "kind": "recommended",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSP402",
+    "requires": "CSL251",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL505",
+    "requires": "CSL201",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL505",
+    "requires": "CSL351",
+    "kind": "recommended",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSL510",
+    "requires": "CSL252",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "course": "CSQ402",
+    "requires": "CSQ401",
+    "kind": "hard",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  }
+]

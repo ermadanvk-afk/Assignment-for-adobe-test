@@ -1,0 +1,56 @@
+{
+  "pipeline_status": "SUCCESS",
+  "entity_counts": {
+    "courses": 27,
+    "prerequisite_edges": 24,
+    "skills": 28,
+    "course_skill_links": 32,
+    "academic_rules": 15,
+    "resources": 32,
+    "resource_skill_links": 57,
+    "modules_lessons": 24,
+    "exercises": 5,
+    "chunks": 130
+  },
+  "field_completeness_percentage": {
+    "courses": 100.0,
+    "prerequisite_edges": 100.0,
+    "skills": 95.92,
+    "course_skill_links": 100.0,
+    "academic_rules": 98.33,
+    "resources": 100.0,
+    "resource_skill_links": 100.0,
+    "modules_lessons": 100.0,
+    "exercises": 100.0
+  },
+  "validation_report": {
+    "checks_run": 10,
+    "passed_checks": 10,
+    "failed_checks": 0,
+    "status": "PASS",
+    "errors": [],
+    "warnings": []
+  },
+  "exported_files": [
+    "data/processed/courses.csv",
+    "data/processed/prerequisite_edges.csv",
+    "data/processed/skills.csv",
+    "data/processed/course_skill_links.csv",
+    "data/processed/academic_rules.csv",
+    "data/processed/resources.csv",
+    "data/processed/resource_skill_links.csv",
+    "data/processed/modules_lessons.csv",
+    "data/processed/exercises.csv",
+    "data/processed/courses.json",
+    "data/processed/prerequisite_edges.json",
+    "data/processed/skills.json",
+    "data/processed/course_skill_links.json",
+    "data/processed/academic_rules.json",
+    "data/processed/resources.json",
+    "data/processed/resource_skill_links.json",
+    "data/processed/modules_lessons.json",
+    "data/processed/exercises.json",
+    "chunks.jsonl",
+    "data/processed/chunks.jsonl"
+  ]
+}

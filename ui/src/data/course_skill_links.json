@@ -1,0 +1,162 @@
+[
+  {
+    "course": "CSL100",
+    "skill": "SKILL_C_PROGRAMMING",
+    "depth": "intro"
+  },
+  {
+    "course": "CSL201",
+    "skill": "SKILL_DISCRETE_LOGIC",
+    "depth": "working"
+  },
+  {
+    "course": "CSL201",
+    "skill": "SKILL_GRAPH_THEORY",
+    "depth": "working"
+  },
+  {
+    "course": "CSL202",
+    "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+    "depth": "working"
+  },
+  {
+    "course": "CSL202",
+    "skill": "SKILL_TREES_AND_HEAPS",
+    "depth": "working"
+  },
+  {
+    "course": "CSL202",
+    "skill": "SKILL_GRAPH_SEARCH",
+    "depth": "intro"
+  },
+  {
+    "course": "CSP203",
+    "skill": "SKILL_LINUX_DEVOPS",
+    "depth": "working"
+  },
+  {
+    "course": "CSL251",
+    "skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "depth": "working"
+  },
+  {
+    "course": "CSL251",
+    "skill": "SKILL_MEMORY_HIERARCHY",
+    "depth": "working"
+  },
+  {
+    "course": "CSL252",
+    "skill": "SKILL_GRAPH_SEARCH",
+    "depth": "advanced"
+  },
+  {
+    "course": "CSL252",
+    "skill": "SKILL_DYNAMIC_PROGRAMMING",
+    "depth": "working"
+  },
+  {
+    "course": "CSL252",
+    "skill": "SKILL_NP_COMPLETENESS",
+    "depth": "intro"
+  },
+  {
+    "course": "CSL253",
+    "skill": "SKILL_AUTOMATA_THEORY",
+    "depth": "working"
+  },
+  {
+    "course": "CSL253",
+    "skill": "SKILL_COMPUTABILITY",
+    "depth": "working"
+  },
+  {
+    "course": "CSL301",
+    "skill": "SKILL_OS_CONCURRENCY",
+    "depth": "working"
+  },
+  {
+    "course": "CSL301",
+    "skill": "SKILL_FILE_SYSTEMS",
+    "depth": "working"
+  },
+  {
+    "course": "CSL301",
+    "skill": "SKILL_MEMORY_HIERARCHY",
+    "depth": "advanced"
+  },
+  {
+    "course": "CSL302",
+    "skill": "SKILL_LEXICAL_PARSING",
+    "depth": "working"
+  },
+  {
+    "course": "CSL302",
+    "skill": "SKILL_CODE_GENERATION",
+    "depth": "working"
+  },
+  {
+    "course": "CSL303",
+    "skill": "SKILL_RELATIONAL_ALGEBRA",
+    "depth": "working"
+  },
+  {
+    "course": "CSL303",
+    "skill": "SKILL_DATABASE_TRANSACTIONS",
+    "depth": "working"
+  },
+  {
+    "course": "CSL304",
+    "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+    "depth": "working"
+  },
+  {
+    "course": "CSL304",
+    "skill": "SKILL_REINFORCEMENT_LEARNING",
+    "depth": "intro"
+  },
+  {
+    "course": "CSL351",
+    "skill": "SKILL_NETWORK_PROTOCOLS",
+    "depth": "working"
+  },
+  {
+    "course": "CSL351",
+    "skill": "SKILL_ROUTING_CONGESTION",
+    "depth": "working"
+  },
+  {
+    "course": "CSP352",
+    "skill": "SKILL_LLM_AGENT_HARNESS",
+    "depth": "advanced"
+  },
+  {
+    "course": "CSP402",
+    "skill": "SKILL_DIGITAL_LOGIC",
+    "depth": "working"
+  },
+  {
+    "course": "CSP402",
+    "skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "depth": "advanced"
+  },
+  {
+    "course": "CSL505",
+    "skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+    "depth": "advanced"
+  },
+  {
+    "course": "CSL505",
+    "skill": "SKILL_PUBLIC_KEY_CRYPTO",
+    "depth": "advanced"
+  },
+  {
+    "course": "CSL510",
+    "skill": "SKILL_APPROXIMATION_ALGORITHMS",
+    "depth": "advanced"
+  },
+  {
+    "course": "ECL101",
+    "skill": "SKILL_DIGITAL_LOGIC",
+    "depth": "intro"
+  }
+]

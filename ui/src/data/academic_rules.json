@@ -1,0 +1,152 @@
+[
+  {
+    "id": "RULE_CREDIT_NORMAL_LOAD",
+    "category": "Credit Limits",
+    "text": "The normal semester load for undergraduate B.Tech students is governed by the semester-wise curriculum matrix, typically ranging between 17 and 19.5 credits per regular semester.",
+    "numeric_limit": 18.0,
+    "applies_to": "All B.Tech students (Semesters 1 through 8)",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_CREDIT_OVERLOAD_MAX",
+    "category": "Credit Limits",
+    "text": "In general a student has to register for the nominal load as per the semester-wise program curriculum. Overload/underload can only be permitted from third semester onwards. BTech students may be allowed to register up to a maximum of 21 credits from their third semester onwards by the concerned DUGC conveners on a case-to-case basis.",
+    "numeric_limit": 21.0,
+    "applies_to": "B.Tech CSE students (Semester 3 to 8)",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_CREDIT_UNDERLOAD_MIN",
+    "category": "Credit Limits",
+    "text": "Underload can only be permitted from third semester onwards. BTech students may be allowed to register for a minimum of 15 credits from their third semester onwards by the concerned DUGC conveners on a case-to-case basis.",
+    "numeric_limit": 15.0,
+    "applies_to": "B.Tech CSE students (Semester 3 to 7)",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_CREDIT_FINAL_SEM_MIN",
+    "category": "Credit Limits",
+    "text": "In the eighth regular semester, BTech students may be allowed to register up to a minimum of 9 credits by the concerned DUGC conveners subject to fulfilling all pending credit requirements.",
+    "numeric_limit": 9.0,
+    "applies_to": "Graduating B.Tech students (Semester 8)",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_GRADUATION_MIN_CREDITS",
+    "category": "Graduation Requirements",
+    "text": "To be eligible for the award of a BTech in Computer Science and Engineering degree, a candidate must earn at least 144 course credits (comprising 40.5 Institute Core, 4 Program Linked, 52 Program Core, 22.5 Program Elective, 15 Open Elective, and 10 Liberal Arts) plus 12 Non-Graded Core units, maintaining a minimum CGPA of 4.5.",
+    "numeric_limit": 144.0,
+    "applies_to": "All B.Tech CSE candidates",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_PREREQUISITE_CLEARANCE",
+    "category": "Prerequisites",
+    "text": "Pre-requisites shall be defined only in terms of other course code(s). A precedent course defined as a prerequisite for a course must be cleared (obtaining a passing grade; non-F grade) before the dependent course can be registered.",
+    "numeric_limit": null,
+    "applies_to": "All courses with prerequisite constraints",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_NPTEL_MAX_CREDITS",
+    "category": "MOOC / NPTEL Transfer",
+    "text": "A student shall be allowed to opt for a maximum of 6 credits from MOOC-based portals (such as NPTEL / SWAYAM) for considering against credit transfer during their entire B.Tech undergraduate program.",
+    "numeric_limit": 6.0,
+    "applies_to": "All undergraduate B.Tech students",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_NPTEL_EQUIVALENCE_DURATION",
+    "category": "MOOC / NPTEL Transfer",
+    "text": "A 14-week or 42-hour MOOC/NPTEL course shall be considered equivalent to a full-semester course worth 3 credits of IIT Bhilai. Prior departmental DUGC approval is mandatory before enrolling.",
+    "numeric_limit": 3.0,
+    "applies_to": "Approved 14-week NPTEL/SWAYAM courses",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_NPTEL_GRADING_PROCEDURE",
+    "category": "MOOC / NPTEL Transfer",
+    "text": "The respective DUGC convener acts as instructor-in-charge for any approved MOOC-based course (using course code format CSL495). The proctored grade is displayed on the semester grade sheet and counted directly towards CGPA calculation.",
+    "numeric_limit": null,
+    "applies_to": "Students crediting NPTEL courses",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_HONOURS_MINOR_ELIGIBILITY",
+    "category": "Minor Degree & Honours",
+    "text": "A student at the end of the 5th semester can apply to register for BTech Honours or Minor specialization in another discipline. Eligibility requires a cumulative CGPA of 8.0 or above, no active backlogs, and successful completion of 24 additional credits beyond the normal 144 credits.",
+    "numeric_limit": 8.0,
+    "applies_to": "Undergraduate B.Tech students at completion of Semester 5",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_ACADEMIC_PROBATION_SGPA",
+    "category": "Academic Standing",
+    "text": "If SGPA falls below 4.5 in any semester, the student will be placed on academic probation with a warning letter issued by the Dean of Academic Affairs (DoAA). A student on probation is prohibited from participating in off-campus extracurricular events.",
+    "numeric_limit": 4.5,
+    "applies_to": "All registered undergraduate students",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_ACADEMIC_TERMINATION_CGPA",
+    "category": "Academic Standing",
+    "text": "A student will normally not be allowed to register and their academic program will be automatically terminated if their Cumulative Grade Point Average (CGPA) falls below 4.0.",
+    "numeric_limit": 4.0,
+    "applies_to": "All undergraduate students",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_COURSE_ADD_DROP_PERIOD",
+    "category": "Registration Regulations",
+    "text": "Students may add or drop courses using the academic registration system within 5 working days of the commencement of the regular semester, subject to approval by the DUGC convener.",
+    "numeric_limit": 5.0,
+    "applies_to": "All registered students at the start of each semester",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_GRADE_IMPROVEMENT_LIMIT",
+    "category": "Grading & Evaluation",
+    "text": "Course grade improvement examination can be carried out for a maximum of three courses where the student was awarded a grade of C or less and cumulative CGPA is less than or equal to 5.0, provided it does not increase normal semester load.",
+    "numeric_limit": 3.0,
+    "applies_to": "Students with C or lower grade and CGPA <= 5.0",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "RULE_MINIMUM_ATTENDANCE",
+    "category": "Grading & Evaluation",
+    "text": "A student is required to maintain a minimum attendance of 75% in each registered course to be eligible to sit for the end-semester examination, unless granted medical dispensation by the Senate.",
+    "numeric_limit": 75.0,
+    "applies_to": "All courses and lab sessions",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=aca_handbook_pdf",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  }
+]

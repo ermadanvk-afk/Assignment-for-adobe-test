@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SKILL_C_PROGRAMMING",
+    "name": "C Programming & Pointer Arithmetic",
+    "level": "introductory",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_DISCRETE_LOGIC",
+    "name": "Propositional & Predicate Logic",
+    "level": "introductory",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_GRAPH_THEORY",
+    "name": "Graph Theory & Combinatorics",
+    "level": "intermediate",
+    "parent_skill": "SKILL_DISCRETE_LOGIC",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_LINEAR_DATA_STRUCTURES",
+    "name": "Linear Data Structures (Stacks, Queues, Lists)",
+    "level": "introductory",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_TREES_AND_HEAPS",
+    "name": "Trees, Heaps & Balanced BSTs",
+    "level": "intermediate",
+    "parent_skill": "SKILL_LINEAR_DATA_STRUCTURES",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_GRAPH_SEARCH",
+    "name": "Graph Traversal (BFS, DFS, Dijkstra)",
+    "level": "intermediate",
+    "parent_skill": "SKILL_GRAPH_THEORY",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_DYNAMIC_PROGRAMMING",
+    "name": "Dynamic Programming & Greedy Algorithms",
+    "level": "intermediate",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_NP_COMPLETENESS",
+    "name": "NP-Completeness & Complexity Reductions",
+    "level": "advanced",
+    "parent_skill": "SKILL_DYNAMIC_PROGRAMMING",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_APPROXIMATION_ALGORITHMS",
+    "name": "Approximation Algorithms & LP Relaxations",
+    "level": "advanced",
+    "parent_skill": "SKILL_NP_COMPLETENESS",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_DIGITAL_LOGIC",
+    "name": "Digital Logic & Circuit Minimization",
+    "level": "introductory",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_COMPUTER_ARCHITECTURE",
+    "name": "Instruction Set Architecture & Pipelining",
+    "level": "intermediate",
+    "parent_skill": "SKILL_DIGITAL_LOGIC",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_MEMORY_HIERARCHY",
+    "name": "Cache Memory & Virtual Memory Management",
+    "level": "intermediate",
+    "parent_skill": "SKILL_COMPUTER_ARCHITECTURE",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_OS_CONCURRENCY",
+    "name": "OS Concurrency, Threads & Synchronization",
+    "level": "intermediate",
+    "parent_skill": "SKILL_MEMORY_HIERARCHY",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_FILE_SYSTEMS",
+    "name": "File Systems, I/O Subsystems & Storage",
+    "level": "intermediate",
+    "parent_skill": "SKILL_OS_CONCURRENCY",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_AUTOMATA_THEORY",
+    "name": "Finite Automata & Regular Languages",
+    "level": "introductory",
+    "parent_skill": "SKILL_DISCRETE_LOGIC",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_COMPUTABILITY",
+    "name": "Context-Free Grammars & Turing Decidability",
+    "level": "intermediate",
+    "parent_skill": "SKILL_AUTOMATA_THEORY",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_LEXICAL_PARSING",
+    "name": "Lexical Analysis & Syntax-Directed Parsing",
+    "level": "intermediate",
+    "parent_skill": "SKILL_AUTOMATA_THEORY",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_CODE_GENERATION",
+    "name": "Intermediate Code Generation & Optimization",
+    "level": "advanced",
+    "parent_skill": "SKILL_LEXICAL_PARSING",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_RELATIONAL_ALGEBRA",
+    "name": "Relational Algebra & Normalization (1NF-BCNF)",
+    "level": "introductory",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_DATABASE_TRANSACTIONS",
+    "name": "ACID Transactions, Concurrency & B+ Trees",
+    "level": "intermediate",
+    "parent_skill": "SKILL_RELATIONAL_ALGEBRA",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_SEARCH_ALGORITHMS_AI",
+    "name": "A* Search & Adversarial Game Trees",
+    "level": "intermediate",
+    "parent_skill": "SKILL_GRAPH_SEARCH",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_REINFORCEMENT_LEARNING",
+    "name": "Markov Decision Processes & Q-Learning",
+    "level": "advanced",
+    "parent_skill": "SKILL_SEARCH_ALGORITHMS_AI",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_NETWORK_PROTOCOLS",
+    "name": "Layered TCP/IP Stack & Socket Programming",
+    "level": "intermediate",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_ROUTING_CONGESTION",
+    "name": "Congestion Control & Routing Algorithms (OSPF, BGP)",
+    "level": "advanced",
+    "parent_skill": "SKILL_NETWORK_PROTOCOLS",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+    "name": "Block Ciphers (AES) & Cryptographic Hashes",
+    "level": "intermediate",
+    "parent_skill": "SKILL_DISCRETE_LOGIC",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_PUBLIC_KEY_CRYPTO",
+    "name": "Public Key Cryptosystems (RSA, ECC, Diffie-Hellman)",
+    "level": "advanced",
+    "parent_skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_LINUX_DEVOPS",
+    "name": "Linux CLI, Shell Scripting, Git & Docker",
+    "level": "introductory",
+    "parent_skill": null,
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  },
+  {
+    "id": "SKILL_LLM_AGENT_HARNESS",
+    "name": "LLM Prompt Engineering, Tools & Agent Harnesses",
+    "level": "advanced",
+    "parent_skill": "SKILL_LINUX_DEVOPS",
+    "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-11",
+    "source_type": "official"
+  }
+]

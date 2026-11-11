@@ -1,0 +1,2034 @@
+{
+  "_metadata": {
+    "institute": "Indian Institute of Technology Bhilai",
+    "program": "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+    "retrieved_on": "2026-11-11",
+    "official_sources": [
+      "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "https://www.iitbhilai.ac.in/index.php?pid=aca_handbook_pdf"
+    ]
+  },
+  "courses": [
+    {
+      "code": "CSL100",
+      "title": "Introduction to Programming",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.5,
+      "lecture_tutorial_practical": "2-1-3",
+      "semester_offered": 1,
+      "type": "Institute Core",
+      "mode": "Lecture + Tutorial + Practical",
+      "objectives": "Basics of programming using C; Basic UNIX commands, Primitives and Datatypes, Arithmetic operations, Input and output functions; Conditional statement; Loops, Introduction to Functions, Macros, Recursion, Arrays, Strings, Dynamic Memory Allocation, Pointers, Complex Data Types, File Handling, Introduction to Linked List, sorting, Searching, Bitwise Operator.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "MAL100",
+      "title": "Mathematics-I",
+      "dept": "Mathematics",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 1,
+      "type": "Institute Core",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Differential and Integral Calculus: Rolle's theorem, Mean value theorems, Taylor's and Maclaurin theorems, Maxima and minima, Indeterminate forms; Linear Algebra: Matrices, Systems of linear equations, Gauss elimination, Vector spaces, Subspaces, Linear independence, Basis and dimension, Linear transformations, Eigenvalues, eigenvectors, Diagonalization, Cayley-Hamilton Theorem.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "PHL101",
+      "title": "Physics for Engineers",
+      "dept": "Physics",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 1,
+      "type": "Institute Core",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Classical Mechanics, Oscillations and Waves: Simple harmonic motion, Damped and driven oscillators, Resonance; Quantum Mechanics: Wave-particle duality, De Broglie hypothesis, Heisenberg uncertainty principle, Schrodinger wave equation, Particle in a box; Optics and Lasers: Interference, Diffraction, Polarization, Principles of Lasers and optical fibers.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CYL100",
+      "title": "Applied Chemistry",
+      "dept": "Chemistry",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "3-0-0",
+      "semester_offered": 1,
+      "type": "Institute Core",
+      "mode": "Lecture",
+      "objectives": "Molecular structure and spectroscopy; Thermodynamics and chemical kinetics; Electrochemistry and corrosion; Polymer chemistry and smart materials; Nanomaterials and green chemistry principles for modern engineering applications.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "MEP102",
+      "title": "Digital Fabrication",
+      "dept": "Mechanical Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "1-0.5-3",
+      "semester_offered": 2,
+      "type": "Institute Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Introduction to Computer-Aided Design (CAD), 3D printing technologies (FDM, SLA), CNC machining, laser cutting, PCB prototyping, rapid tooling, and integration of mechanical fabrication with digital electronics.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "EEL101",
+      "title": "Basic Electrical Engineering",
+      "dept": "Electrical Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 2,
+      "type": "Institute Core",
+      "mode": "Lecture + Practical",
+      "objectives": "DC Circuit analysis, Thevenin and Norton theorems, Maximum power transfer theorem; AC circuits, Phasors, Single-phase and three-phase circuits, Power and power factor; Magnetic circuits and Transformers; DC machines and Induction motors.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "ECL101",
+      "title": "Basic Electronics Engineering",
+      "dept": "Electronics & Communication Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 2,
+      "type": "Institute Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Semiconductor physics, p-n junction diodes, Zener diodes, diode circuits and rectifiers; Bipolar Junction Transistors (BJTs) and Field Effect Transistors (FETs, MOSFETs); Operational Amplifiers (Op-Amps) and linear/non-linear applications; Digital logic basics, logic gates, truth tables, and boolean minimization.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "MAL101",
+      "title": "Mathematics-II",
+      "dept": "Mathematics",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 2,
+      "type": "Institute Core",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Multivariable Calculus: Functions of several variables, partial derivatives, directional derivatives, gradient, curl, divergence, line, surface, and volume integrals, Green's, Stokes', and Gauss divergence theorems; Ordinary Differential Equations: First-order ODEs, higher-order linear ODEs with constant coefficients, series solutions, Laplace transforms.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "MAL403",
+      "title": "Probability & Statistics",
+      "dept": "Mathematics",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 3,
+      "type": "Program Linked",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Probability theory: Axioms of probability, Conditional probability, Bayes' theorem; Random variables and distributions (discrete and continuous): Binomial, Poisson, Geometric, Uniform, Exponential, Normal; Joint distributions, covariance, correlation; Sampling distributions, Central Limit Theorem; Estimation, confidence intervals, hypothesis testing, regression analysis.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL201",
+      "title": "Discrete Mathematics",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 3,
+      "type": "Program Core",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Sets, relations, functions, Equivalence and Partial order relations; Formal logic: Propositional logic and truth tables, normal forms, Predicates and Quantification; Notion of proof: proof techniques, Mathematical Induction; Combinatorics: Basic counting techniques, The pigeonhole principle, countable and uncountable sets, recurrence relations, The principle of Inclusion-exclusion; Graph theory: Graph terminology, representation of graphs, Isomorphism, trees, Eulerian and Hamiltonian graphs, Graph coloring and Planar graphs; Number theory: Divisibility, GCD, The Euclidean algorithm, The fundamental theorem of arithmetic, Modular arithmetic; Group theory: Groups, subgroups, finite groups, cyclic groups, permutation groups.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL202",
+      "title": "Data Structures",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "2-1-2",
+      "semester_offered": 3,
+      "type": "Program Core",
+      "mode": "Lecture + Tutorial + Practical",
+      "objectives": "Stacks, Queues, Lists; Sorting and Searching; Trees, Tree Traversals; Heaps, Priority Queues; Binary Search, Binary Search Trees, Balanced BSTs (AVL, Red-Black Trees); Hashing and Hash Tables; Graphs: Representations, Depth First Search, Breadth First Search, Topological Sort.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSP203",
+      "title": "Software Tools & Technologies Lab",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "1-0-4",
+      "semester_offered": 3,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Basics of Linux: Linux commands, shell scripting, text editors (Vim/Emacs); Scripting languages (Python/Bash); Web programming (HTML, CSS, JS, REST APIs); Plotting tools (Gnuplot, Matplotlib); Document processing tools (LaTeX, Markdown); Version control systems (Git, GitHub workflows); Debuggers (gdb, valgrind); Containerization with Docker.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL251",
+      "title": "Computer Organization and Architecture",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 4,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Introduction: Overview of basic digital building blocks, truth tables, basic structure of a digital computer, number representation; Machine Instructions and Program: Assembly language programming for processors; Arithmetic Unit: Basic building blocks for the ALU, adder, subtractor, shifter, multiplication and division circuits, control path microprogramming, hardwired control; Memory organization: ROM, RAM, EPROM, Flash, cache memories, cache coherence protocol for uniprocessor, virtual memory, secondary storage; Input/Output Organization: I/O subblock, interrupts, polling, DMA; Pipelining: Instruction pipeline, hazards and forwarding.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL252",
+      "title": "Design and Analysis of Algorithms",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 4,
+      "type": "Program Core",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Algorithm analysis: worst and average case, asymptotic notation, recurrences; Sorting and selection: randomized quicksort, median finding; Randomized techniques; Divide and Conquer; Dynamic programming and Greedy algorithms; Graph algorithms: BFS, DFS, Minimum Spanning Trees (Prim, Kruskal), Shortest paths (Dijkstra, Bellman-Ford, Floyd-Warshall), Network Flow (Ford-Fulkerson); NP-Completeness, reductions, and introduction to Approximation Algorithms.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL253",
+      "title": "Theory of Computation",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-1-0",
+      "semester_offered": 4,
+      "type": "Program Core",
+      "mode": "Lecture + Tutorial",
+      "objectives": "Alphabets, languages, finite automata (DFA, NFA, regular expressions, pumping lemma for regular languages); Context-Free Grammars and Context-Free Languages, parse trees, pushdown automata, CYK algorithm, pumping lemma for CFLs; Turing machines, Church-Turing thesis, decidability, halting problem, reductions; Introduction to space and time complexity, P vs NP, NP-completeness.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL301",
+      "title": "Operating Systems",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 5,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Introduction: Virtualization, Concurrency, Persistence; CPU Virtualization: Process, Process API, PCB, mechanism, CPU scheduling, Multilevel Feedback Queue; Memory Virtualization: Address space, memory API, address translation, segmentation, paging, TLBs, replacement policies, swapping; Concurrency: Threads, thread API, locks, condition variables, semaphores, concurrency bugs; Persistence: I/O devices, Hard disks, RAID, file and directories, file system implementation; Security: OS security, authentication, access control; Practical tools and kernel hacking with xv6.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL302",
+      "title": "Compiler Design",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 5,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Compiler structure: Analysis-synthesis model of compilation, phases of a compiler, tool-based approach to compiler construction; Phases of compiler design: Lexical analysis (Lex/Flex); Syntax analysis (LL, LR, LALR parsing, Yacc/Bison); Syntax-directed translation; Type checking and semantic analysis; Run-time system and memory layout; Intermediate code generation (Three-address code, SSA); Machine-independent optimizations (dead code elimination, loop optimizations); Target code generation and register allocation.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL303",
+      "title": "Database Management Systems",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 5,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Database System Concepts: Data models, schemas and instances, database languages, relational DBMS architecture; Relational Algebra: Select, Project, Set operations, Join, Division; ER and EER Models: Entities, relationships, keys, specialization/generalization, schema mapping; Normalization: Functional dependencies, 1NF, 2NF, 3NF, BCNF, multivalued dependencies and 4NF; Transaction Management: ACID properties, serializability, concurrency control (2PL, timestamp ordering), recovery systems (WAL, checkpoints); Indexing: B+ Trees, hashing; SQL programming and database application development.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL304",
+      "title": "Artificial Intelligence",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 5,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Introduction and Agent Architectures; Problem Solving by Search: Uninformed search (BFS, DFS), Informed search (A*, IDA*), Heuristics, Adversarial search (Minimax, Alpha-Beta pruning), Constraint Satisfaction Problems (CSP); Automated Reasoning: Propositional and First-Order Logic, inference, resolution refutation, knowledge-based systems; Planning: Classical planning, STRIPS, state-space and plan-space planning; Reasoning under Uncertainty: Probabilistic reasoning, Bayesian networks, inference; Reinforcement Learning: Markov Decision Processes (MDP), Bellman equations, Value/Policy iteration, Q-learning.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL351",
+      "title": "Computer Networks",
+      "dept": "Computer Science and Engineering",
+      "credits": 4.0,
+      "lecture_tutorial_practical": "3-0-2",
+      "semester_offered": 6,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Introduction: Layered architecture (OSI, TCP/IP), packet switching vs circuit switching, delay, loss, and throughput; Application Layer: HTTP, DNS, SMTP, P2P, CDNs; Transport Layer: TCP, UDP, reliable data transfer, flow control, congestion control (TCP Reno, Cubic, BBR), socket programming; Network Layer: IP addressing, subnetting, CIDR, NAT, routing algorithms (Dijkstra, Distance Vector), BGP, OSPF, ICMP, IPv6; Data Link Layer: Framing, error detection/correction, MAC protocols (CSMA/CD, CSMA/CA), Ethernet, Wi-Fi; Network Security: TLS/SSL, IPSec, firewalls; Simulation tools: Wireshark, NS-3, Mininet.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSP352",
+      "title": "AI-Augmented Software Development",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "1-0-4",
+      "semester_offered": 6,
+      "type": "Program Core",
+      "mode": "Lecture + Practical",
+      "objectives": "Introduction to LLM-based software engineering: Role of LLMs in SDLC, coding assistants, testing and debugging support, documentation, academic integrity; Prompting as interface design: Role and task specification, constraints, structured prompting, prompt refinement; LLMs as software components: LLM APIs, request/response patterns, context handling, schema validation; From assistants to agents: Perceive-think-act-observe loops, tool use, single-agent task execution, tool registries; Agent harness engineering: Harness definition, bounded execution, step limits, runtime policies, trace logging, human-in-the-loop approvals; Evaluation harnesses: Task suites, success criteria, regression testing, step count and latency metrics; Safety and governance: Prompt injection, unsafe tool use, sandboxing, human review; Capstone team project.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSP402",
+      "title": "Nand to Tetris",
+      "dept": "Computer Science and Engineering",
+      "credits": 2.0,
+      "lecture_tutorial_practical": "0-0-4",
+      "semester_offered": 6,
+      "type": "Program Elective",
+      "mode": "Practical",
+      "objectives": "Building a modern computer from first principles: Boolean logic, logic gates, ALU design; Sequential logic, flip-flops, memory units; Machine language, Hack computer architecture; Assembly language and Hack assembler implementation; Virtual machine abstraction, stack arithmetic, memory segments, VM translator; High-level object-based language (Jack); Jack compiler (syntax analysis, code generation); Mini-operating system implementation.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL505",
+      "title": "Cryptography",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "3-0-0",
+      "semester_offered": 7,
+      "type": "Program Elective",
+      "mode": "Lecture",
+      "objectives": "Introduction, Formal Notions, Mathematics Recap, Historical Ciphers; Attack Models, Informational and Computational Security, Perfect Secrecy; Symmetric Key Cryptography: Stream ciphers (LFSR), Block ciphers (DES, AES), Modes of operation; Cryptanalysis: Linear and Differential Cryptanalysis; Hash Functions: SHA-2, SHA-3, HMAC, collisions, Birthday paradox; Public Key Cryptography: RSA, Diffie-Hellman, Elliptic Curve Cryptography (ECC); Digital Signatures and PKI; Quantum Cryptography overview.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL510",
+      "title": "Approximation Algorithms",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "3-0-0",
+      "semester_offered": 7,
+      "type": "Program Elective",
+      "mode": "Lecture",
+      "objectives": "Introduction to NP-completeness and approximation algorithms; Combinatorial algorithms: Greedy algorithms (Set Cover), Local search (Facility Location); Rounding data and Dynamic Programming (Knapsack FPTAS); Linear Programming (LP) relaxations and LP duality; Deterministic rounding and randomized rounding; Primal-dual schema (Vertex Cover, Network Design); Metric embeddings; Semidefinite Programming (Max-Cut); Hardness of approximation and PCP theorem overview.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSQ401",
+      "title": "BTech Project-I",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "0-0-6",
+      "semester_offered": 7,
+      "type": "Capstone Core",
+      "mode": "Project",
+      "objectives": "Research and development-oriented capstone project based on problems of practical and theoretical interest under faculty supervision. Includes comprehensive literature survey, formulation of research methodology/system architecture, baseline experiments, interim evaluation, and written report.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSQ402",
+      "title": "BTech Project-II",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "0-0-6",
+      "semester_offered": 8,
+      "type": "Capstone Core",
+      "mode": "Project",
+      "objectives": "Continuation of CSQ401: full implementation, experimental validation, comparative benchmark analysis, final software prototype or scientific paper manuscript, public defense presentation, and comprehensive thesis submission.",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "code": "CSL495",
+      "title": "MOOC-based (NPTEL): Advanced Computer Science",
+      "dept": "Computer Science and Engineering",
+      "credits": 3.0,
+      "lecture_tutorial_practical": "3-0-0",
+      "semester_offered": 7,
+      "type": "Program Elective",
+      "mode": "Online MOOC + Proctored Exam",
+      "objectives": "Departmentally approved NPTEL / SWAYAM advanced 12-week course for credit transfer. Governed under IIT Bhilai MOOC Policy Section 3.2.1. Supervised and evaluated by DUGC Convener.",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    }
+  ],
+  "prerequisite_edges": [
+    {
+      "course": "CSL202",
+      "requires": "CSL100",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSP203",
+      "requires": "CSL100",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL251",
+      "requires": "CSL100",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL251",
+      "requires": "ECL101",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL252",
+      "requires": "CSL100",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL252",
+      "requires": "CSL201",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL252",
+      "requires": "CSL202",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL253",
+      "requires": "CSL201",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL253",
+      "requires": "CSL202",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL301",
+      "requires": "CSL202",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL301",
+      "requires": "CSL251",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL302",
+      "requires": "CSL251",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL302",
+      "requires": "CSL253",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL303",
+      "requires": "CSL202",
+      "kind": "recommended",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL304",
+      "requires": "CSL202",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL304",
+      "requires": "MAL403",
+      "kind": "recommended",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL351",
+      "requires": "CSL301",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSP352",
+      "requires": "CSL100",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSP352",
+      "requires": "CSP203",
+      "kind": "recommended",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSP402",
+      "requires": "CSL251",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL505",
+      "requires": "CSL201",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL505",
+      "requires": "CSL351",
+      "kind": "recommended",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSL510",
+      "requires": "CSL252",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "course": "CSQ402",
+      "requires": "CSQ401",
+      "kind": "hard",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    }
+  ],
+  "academic_rules": [
+    {
+      "id": "RULE_CREDIT_NORMAL_LOAD",
+      "category": "Credit Limits",
+      "text": "The normal semester load for undergraduate B.Tech students is governed by the semester-wise curriculum matrix, typically ranging between 17 and 19.5 credits per regular semester.",
+      "numeric_limit": 18.0,
+      "applies_to": "All B.Tech students (Semesters 1 through 8)",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_CREDIT_OVERLOAD_MAX",
+      "category": "Credit Limits",
+      "text": "In general a student has to register for the nominal load as per the semester-wise program curriculum. Overload/underload can only be permitted from third semester onwards. BTech students may be allowed to register up to a maximum of 21 credits from their third semester onwards by the concerned DUGC conveners on a case-to-case basis.",
+      "numeric_limit": 21.0,
+      "applies_to": "B.Tech CSE students (Semester 3 to 8)",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_CREDIT_UNDERLOAD_MIN",
+      "category": "Credit Limits",
+      "text": "Underload can only be permitted from third semester onwards. BTech students may be allowed to register for a minimum of 15 credits from their third semester onwards by the concerned DUGC conveners on a case-to-case basis.",
+      "numeric_limit": 15.0,
+      "applies_to": "B.Tech CSE students (Semester 3 to 7)",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_CREDIT_FINAL_SEM_MIN",
+      "category": "Credit Limits",
+      "text": "In the eighth regular semester, BTech students may be allowed to register up to a minimum of 9 credits by the concerned DUGC conveners subject to fulfilling all pending credit requirements.",
+      "numeric_limit": 9.0,
+      "applies_to": "Graduating B.Tech students (Semester 8)",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_GRADUATION_MIN_CREDITS",
+      "category": "Graduation Requirements",
+      "text": "To be eligible for the award of a BTech in Computer Science and Engineering degree, a candidate must earn at least 144 course credits (comprising 40.5 Institute Core, 4 Program Linked, 52 Program Core, 22.5 Program Elective, 15 Open Elective, and 10 Liberal Arts) plus 12 Non-Graded Core units, maintaining a minimum CGPA of 4.5.",
+      "numeric_limit": 144.0,
+      "applies_to": "All B.Tech CSE candidates",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_PREREQUISITE_CLEARANCE",
+      "category": "Prerequisites",
+      "text": "Pre-requisites shall be defined only in terms of other course code(s). A precedent course defined as a prerequisite for a course must be cleared (obtaining a passing grade; non-F grade) before the dependent course can be registered.",
+      "numeric_limit": null,
+      "applies_to": "All courses with prerequisite constraints",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_NPTEL_MAX_CREDITS",
+      "category": "MOOC / NPTEL Transfer",
+      "text": "A student shall be allowed to opt for a maximum of 6 credits from MOOC-based portals (such as NPTEL / SWAYAM) for considering against credit transfer during their entire B.Tech undergraduate program.",
+      "numeric_limit": 6.0,
+      "applies_to": "All undergraduate B.Tech students",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_NPTEL_EQUIVALENCE_DURATION",
+      "category": "MOOC / NPTEL Transfer",
+      "text": "A 14-week or 42-hour MOOC/NPTEL course shall be considered equivalent to a full-semester course worth 3 credits of IIT Bhilai. Prior departmental DUGC approval is mandatory before enrolling.",
+      "numeric_limit": 3.0,
+      "applies_to": "Approved 14-week NPTEL/SWAYAM courses",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_NPTEL_GRADING_PROCEDURE",
+      "category": "MOOC / NPTEL Transfer",
+      "text": "The respective DUGC convener acts as instructor-in-charge for any approved MOOC-based course (using course code format CSL495). The proctored grade is displayed on the semester grade sheet and counted directly towards CGPA calculation.",
+      "numeric_limit": null,
+      "applies_to": "Students crediting NPTEL courses",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_HONOURS_MINOR_ELIGIBILITY",
+      "category": "Minor Degree & Honours",
+      "text": "A student at the end of the 5th semester can apply to register for BTech Honours or Minor specialization in another discipline. Eligibility requires a cumulative CGPA of 8.0 or above, no active backlogs, and successful completion of 24 additional credits beyond the normal 144 credits.",
+      "numeric_limit": 8.0,
+      "applies_to": "Undergraduate B.Tech students at completion of Semester 5",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_ACADEMIC_PROBATION_SGPA",
+      "category": "Academic Standing",
+      "text": "If SGPA falls below 4.5 in any semester, the student will be placed on academic probation with a warning letter issued by the Dean of Academic Affairs (DoAA). A student on probation is prohibited from participating in off-campus extracurricular events.",
+      "numeric_limit": 4.5,
+      "applies_to": "All registered undergraduate students",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_ACADEMIC_TERMINATION_CGPA",
+      "category": "Academic Standing",
+      "text": "A student will normally not be allowed to register and their academic program will be automatically terminated if their Cumulative Grade Point Average (CGPA) falls below 4.0.",
+      "numeric_limit": 4.0,
+      "applies_to": "All undergraduate students",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_COURSE_ADD_DROP_PERIOD",
+      "category": "Registration Regulations",
+      "text": "Students may add or drop courses using the academic registration system within 5 working days of the commencement of the regular semester, subject to approval by the DUGC convener.",
+      "numeric_limit": 5.0,
+      "applies_to": "All registered students at the start of each semester",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_GRADE_IMPROVEMENT_LIMIT",
+      "category": "Grading & Evaluation",
+      "text": "Course grade improvement examination can be carried out for a maximum of three courses where the student was awarded a grade of C or less and cumulative CGPA is less than or equal to 5.0, provided it does not increase normal semester load.",
+      "numeric_limit": 3.0,
+      "applies_to": "Students with C or lower grade and CGPA <= 5.0",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=ug_manual",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "RULE_MINIMUM_ATTENDANCE",
+      "category": "Grading & Evaluation",
+      "text": "A student is required to maintain a minimum attendance of 75% in each registered course to be eligible to sit for the end-semester examination, unless granted medical dispensation by the Senate.",
+      "numeric_limit": 75.0,
+      "applies_to": "All courses and lab sessions",
+      "source_url": "https://www.iitbhilai.ac.in/index.php?pid=aca_handbook_pdf",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    }
+  ],
+  "skills": [
+    {
+      "id": "SKILL_C_PROGRAMMING",
+      "name": "C Programming & Pointer Arithmetic",
+      "level": "introductory",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_DISCRETE_LOGIC",
+      "name": "Propositional & Predicate Logic",
+      "level": "introductory",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_GRAPH_THEORY",
+      "name": "Graph Theory & Combinatorics",
+      "level": "intermediate",
+      "parent_skill": "SKILL_DISCRETE_LOGIC",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_LINEAR_DATA_STRUCTURES",
+      "name": "Linear Data Structures (Stacks, Queues, Lists)",
+      "level": "introductory",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_TREES_AND_HEAPS",
+      "name": "Trees, Heaps & Balanced BSTs",
+      "level": "intermediate",
+      "parent_skill": "SKILL_LINEAR_DATA_STRUCTURES",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_GRAPH_SEARCH",
+      "name": "Graph Traversal (BFS, DFS, Dijkstra)",
+      "level": "intermediate",
+      "parent_skill": "SKILL_GRAPH_THEORY",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_DYNAMIC_PROGRAMMING",
+      "name": "Dynamic Programming & Greedy Algorithms",
+      "level": "intermediate",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_NP_COMPLETENESS",
+      "name": "NP-Completeness & Complexity Reductions",
+      "level": "advanced",
+      "parent_skill": "SKILL_DYNAMIC_PROGRAMMING",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_APPROXIMATION_ALGORITHMS",
+      "name": "Approximation Algorithms & LP Relaxations",
+      "level": "advanced",
+      "parent_skill": "SKILL_NP_COMPLETENESS",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_DIGITAL_LOGIC",
+      "name": "Digital Logic & Circuit Minimization",
+      "level": "introductory",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_COMPUTER_ARCHITECTURE",
+      "name": "Instruction Set Architecture & Pipelining",
+      "level": "intermediate",
+      "parent_skill": "SKILL_DIGITAL_LOGIC",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_MEMORY_HIERARCHY",
+      "name": "Cache Memory & Virtual Memory Management",
+      "level": "intermediate",
+      "parent_skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_OS_CONCURRENCY",
+      "name": "OS Concurrency, Threads & Synchronization",
+      "level": "intermediate",
+      "parent_skill": "SKILL_MEMORY_HIERARCHY",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_FILE_SYSTEMS",
+      "name": "File Systems, I/O Subsystems & Storage",
+      "level": "intermediate",
+      "parent_skill": "SKILL_OS_CONCURRENCY",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_AUTOMATA_THEORY",
+      "name": "Finite Automata & Regular Languages",
+      "level": "introductory",
+      "parent_skill": "SKILL_DISCRETE_LOGIC",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_COMPUTABILITY",
+      "name": "Context-Free Grammars & Turing Decidability",
+      "level": "intermediate",
+      "parent_skill": "SKILL_AUTOMATA_THEORY",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_LEXICAL_PARSING",
+      "name": "Lexical Analysis & Syntax-Directed Parsing",
+      "level": "intermediate",
+      "parent_skill": "SKILL_AUTOMATA_THEORY",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_CODE_GENERATION",
+      "name": "Intermediate Code Generation & Optimization",
+      "level": "advanced",
+      "parent_skill": "SKILL_LEXICAL_PARSING",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_RELATIONAL_ALGEBRA",
+      "name": "Relational Algebra & Normalization (1NF-BCNF)",
+      "level": "introductory",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_DATABASE_TRANSACTIONS",
+      "name": "ACID Transactions, Concurrency & B+ Trees",
+      "level": "intermediate",
+      "parent_skill": "SKILL_RELATIONAL_ALGEBRA",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_SEARCH_ALGORITHMS_AI",
+      "name": "A* Search & Adversarial Game Trees",
+      "level": "intermediate",
+      "parent_skill": "SKILL_GRAPH_SEARCH",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_REINFORCEMENT_LEARNING",
+      "name": "Markov Decision Processes & Q-Learning",
+      "level": "advanced",
+      "parent_skill": "SKILL_SEARCH_ALGORITHMS_AI",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_NETWORK_PROTOCOLS",
+      "name": "Layered TCP/IP Stack & Socket Programming",
+      "level": "intermediate",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_ROUTING_CONGESTION",
+      "name": "Congestion Control & Routing Algorithms (OSPF, BGP)",
+      "level": "advanced",
+      "parent_skill": "SKILL_NETWORK_PROTOCOLS",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+      "name": "Block Ciphers (AES) & Cryptographic Hashes",
+      "level": "intermediate",
+      "parent_skill": "SKILL_DISCRETE_LOGIC",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_PUBLIC_KEY_CRYPTO",
+      "name": "Public Key Cryptosystems (RSA, ECC, Diffie-Hellman)",
+      "level": "advanced",
+      "parent_skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_LINUX_DEVOPS",
+      "name": "Linux CLI, Shell Scripting, Git & Docker",
+      "level": "introductory",
+      "parent_skill": null,
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    },
+    {
+      "id": "SKILL_LLM_AGENT_HARNESS",
+      "name": "LLM Prompt Engineering, Tools & Agent Harnesses",
+      "level": "advanced",
+      "parent_skill": "SKILL_LINUX_DEVOPS",
+      "source_url": "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+      "retrieved_on": "2026-11-11",
+      "source_type": "official"
+    }
+  ],
+  "course_skill_links": [
+    {
+      "course": "CSL100",
+      "skill": "SKILL_C_PROGRAMMING",
+      "depth": "intro"
+    },
+    {
+      "course": "CSL201",
+      "skill": "SKILL_DISCRETE_LOGIC",
+      "depth": "working"
+    },
+    {
+      "course": "CSL201",
+      "skill": "SKILL_GRAPH_THEORY",
+      "depth": "working"
+    },
+    {
+      "course": "CSL202",
+      "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+      "depth": "working"
+    },
+    {
+      "course": "CSL202",
+      "skill": "SKILL_TREES_AND_HEAPS",
+      "depth": "working"
+    },
+    {
+      "course": "CSL202",
+      "skill": "SKILL_GRAPH_SEARCH",
+      "depth": "intro"
+    },
+    {
+      "course": "CSP203",
+      "skill": "SKILL_LINUX_DEVOPS",
+      "depth": "working"
+    },
+    {
+      "course": "CSL251",
+      "skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "depth": "working"
+    },
+    {
+      "course": "CSL251",
+      "skill": "SKILL_MEMORY_HIERARCHY",
+      "depth": "working"
+    },
+    {
+      "course": "CSL252",
+      "skill": "SKILL_GRAPH_SEARCH",
+      "depth": "advanced"
+    },
+    {
+      "course": "CSL252",
+      "skill": "SKILL_DYNAMIC_PROGRAMMING",
+      "depth": "working"
+    },
+    {
+      "course": "CSL252",
+      "skill": "SKILL_NP_COMPLETENESS",
+      "depth": "intro"
+    },
+    {
+      "course": "CSL253",
+      "skill": "SKILL_AUTOMATA_THEORY",
+      "depth": "working"
+    },
+    {
+      "course": "CSL253",
+      "skill": "SKILL_COMPUTABILITY",
+      "depth": "working"
+    },
+    {
+      "course": "CSL301",
+      "skill": "SKILL_OS_CONCURRENCY",
+      "depth": "working"
+    },
+    {
+      "course": "CSL301",
+      "skill": "SKILL_FILE_SYSTEMS",
+      "depth": "working"
+    },
+    {
+      "course": "CSL301",
+      "skill": "SKILL_MEMORY_HIERARCHY",
+      "depth": "advanced"
+    },
+    {
+      "course": "CSL302",
+      "skill": "SKILL_LEXICAL_PARSING",
+      "depth": "working"
+    },
+    {
+      "course": "CSL302",
+      "skill": "SKILL_CODE_GENERATION",
+      "depth": "working"
+    },
+    {
+      "course": "CSL303",
+      "skill": "SKILL_RELATIONAL_ALGEBRA",
+      "depth": "working"
+    },
+    {
+      "course": "CSL303",
+      "skill": "SKILL_DATABASE_TRANSACTIONS",
+      "depth": "working"
+    },
+    {
+      "course": "CSL304",
+      "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+      "depth": "working"
+    },
+    {
+      "course": "CSL304",
+      "skill": "SKILL_REINFORCEMENT_LEARNING",
+      "depth": "intro"
+    },
+    {
+      "course": "CSL351",
+      "skill": "SKILL_NETWORK_PROTOCOLS",
+      "depth": "working"
+    },
+    {
+      "course": "CSL351",
+      "skill": "SKILL_ROUTING_CONGESTION",
+      "depth": "working"
+    },
+    {
+      "course": "CSP352",
+      "skill": "SKILL_LLM_AGENT_HARNESS",
+      "depth": "advanced"
+    },
+    {
+      "course": "CSP402",
+      "skill": "SKILL_DIGITAL_LOGIC",
+      "depth": "working"
+    },
+    {
+      "course": "CSP402",
+      "skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "depth": "advanced"
+    },
+    {
+      "course": "CSL505",
+      "skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+      "depth": "advanced"
+    },
+    {
+      "course": "CSL505",
+      "skill": "SKILL_PUBLIC_KEY_CRYPTO",
+      "depth": "advanced"
+    },
+    {
+      "course": "CSL510",
+      "skill": "SKILL_APPROXIMATION_ALGORITHMS",
+      "depth": "advanced"
+    },
+    {
+      "course": "ECL101",
+      "skill": "SKILL_DIGITAL_LOGIC",
+      "depth": "intro"
+    }
+  ],
+  "resources": [
+    {
+      "id": "RES_NPTEL_CS_01",
+      "title": "Programming, Data Structures and Algorithms using Python",
+      "provider": "NPTEL / IIT Madras (Prof. Madhavan Mukund)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Code Exercises & Proctored Exam",
+      "duration": "8 weeks (24 hours)",
+      "url": "https://nptel.ac.in/courses/106106145",
+      "source_url": "https://nptel.ac.in/courses/106106145",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_02",
+      "title": "Data Structures and Algorithms",
+      "provider": "NPTEL / IIT Delhi (Prof. Naveen Garg)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Problem Sets",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106102064",
+      "source_url": "https://nptel.ac.in/courses/106102064",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_03",
+      "title": "Design and Analysis of Algorithms",
+      "provider": "NPTEL / IIT Madras (Prof. Madhavan Mukund)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Graded Assignments",
+      "duration": "8 weeks (24 hours)",
+      "url": "https://nptel.ac.in/courses/106106131",
+      "source_url": "https://nptel.ac.in/courses/106106131",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_04",
+      "title": "Operating Systems Fundamentals",
+      "provider": "NPTEL / IIT Kharagpur (Prof. Santanu Chattopadhyay)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Self-Assessment Quizzes",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106105214",
+      "source_url": "https://nptel.ac.in/courses/106105214",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_05",
+      "title": "Computer Architecture and Organization",
+      "provider": "NPTEL / IIT Kharagpur (Prof. Indranil Sengupta)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Proctored Evaluation",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106105163",
+      "source_url": "https://nptel.ac.in/courses/106105163",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_06",
+      "title": "Theory of Computation",
+      "provider": "NPTEL / IIT Kanpur (Prof. Raghunath Tewari)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Theoretical Exercises",
+      "duration": "8 weeks (24 hours)",
+      "url": "https://nptel.ac.in/courses/106104148",
+      "source_url": "https://nptel.ac.in/courses/106104148",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_07",
+      "title": "Compiler Design",
+      "provider": "NPTEL / IIT Kharagpur (Prof. Santanu Chattopadhyay)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Compiler Project Specs",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106105190",
+      "source_url": "https://nptel.ac.in/courses/106105190",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_08",
+      "title": "Database Management System",
+      "provider": "NPTEL / IIT Kharagpur (Prof. Partha Pratim Das)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, SQL Practicals & Quizzes",
+      "duration": "8 weeks (24 hours)",
+      "url": "https://nptel.ac.in/courses/106105175",
+      "source_url": "https://nptel.ac.in/courses/106105175",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_09",
+      "title": "Computer Networks and Internet Protocol",
+      "provider": "NPTEL / IIT Kharagpur (Prof. Soumya Kanti Ghosh)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Packet Tracer Labs",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106105183",
+      "source_url": "https://nptel.ac.in/courses/106105183",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_10",
+      "title": "Artificial Intelligence: Search Methods for Problem Solving",
+      "provider": "NPTEL / IIT Madras (Prof. Deepak Khemani)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Algorithmic Problem Sets",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106106126",
+      "source_url": "https://nptel.ac.in/courses/106106126",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_11",
+      "title": "Cryptography and Network Security",
+      "provider": "NPTEL / IIT Kharagpur (Prof. Sourav Mukhopadhyay)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures & Mathematical Proofs",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106105031",
+      "source_url": "https://nptel.ac.in/courses/106105031",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NPTEL_CS_12",
+      "title": "Discrete Mathematics",
+      "provider": "NPTEL / IIT Ropar (Prof. Sudarshan Iyengar)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Interactive Visualizations & Problem Sets",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://nptel.ac.in/courses/106106183",
+      "source_url": "https://nptel.ac.in/courses/106106183",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_01",
+      "title": "MIT 6.006: Introduction to Algorithms",
+      "provider": "MIT OpenCourseWare (Prof. Erik Demaine, Srini Devadas)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Recitations, Problem Sets & Python Labs",
+      "duration": "14 weeks (42 hours)",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "source_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_02",
+      "title": "MIT 6.046J: Design and Analysis of Algorithms",
+      "provider": "MIT OpenCourseWare (Prof. Erik Demaine)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Notes, Problem Sets & Solutions",
+      "duration": "14 weeks (38 hours)",
+      "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "source_url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_03",
+      "title": "MIT 6.004: Computation Structures",
+      "provider": "MIT OpenCourseWare (Prof. Chris Terman)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Interactive Hardware Simulators & Labs",
+      "duration": "14 weeks (40 hours)",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+      "source_url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_04",
+      "title": "MIT 6.828: Operating System Engineering",
+      "provider": "MIT OpenCourseWare / PDOS Group (Prof. Frans Kaashoek, Robert Morris)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Notes, xv6 Operating System Labs & Source Code",
+      "duration": "14 weeks (42 hours)",
+      "url": "https://pdos.csail.mit.edu/6.828/2023/",
+      "source_url": "https://pdos.csail.mit.edu/6.828/2023/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_05",
+      "title": "MIT 6.045J: Automata, Computability, and Complexity",
+      "provider": "MIT OpenCourseWare (Prof. Scott Aaronson)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Notes, Problem Sets & Solutions",
+      "duration": "14 weeks (36 hours)",
+      "url": "https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/",
+      "source_url": "https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_06",
+      "title": "MIT 6.034: Artificial Intelligence",
+      "provider": "MIT OpenCourseWare (Prof. Patrick Winston)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Recitations & Python Lab Assignments",
+      "duration": "14 weeks (38 hours)",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+      "source_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_07",
+      "title": "MIT 6.042J: Mathematics for Computer Science",
+      "provider": "MIT OpenCourseWare (Prof. Tom Leighton, Marten van Dijk)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Open Textbook & Graded Problem Sets",
+      "duration": "14 weeks (42 hours)",
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+      "source_url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_08",
+      "title": "MIT 6.857: Computer and Network Security",
+      "provider": "MIT OpenCourseWare (Prof. Ronald L. Rivest)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Slides, Project Specifications & Reading Lists",
+      "duration": "14 weeks (36 hours)",
+      "url": "https://ocw.mit.edu/courses/6-857-computer-and-network-security-spring-2014/",
+      "source_url": "https://ocw.mit.edu/courses/6-857-computer-and-network-security-spring-2014/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_09",
+      "title": "MIT 6.854J: Advanced Algorithms",
+      "provider": "MIT OpenCourseWare (Prof. David Karger)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Notes, Problem Sets with Solutions",
+      "duration": "14 weeks (42 hours)",
+      "url": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/",
+      "source_url": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_MIT_OCW_10",
+      "title": "MIT Missing Semester of Your CS Education",
+      "provider": "MIT (Anish Athalye, Jon Gjengset, Jose Javier Gonzalez Ortiz)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Interactive Shell Exercises & Guides",
+      "duration": "11 lectures (16 hours)",
+      "url": "https://missing.csail.mit.edu/",
+      "source_url": "https://missing.csail.mit.edu/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_STANFORD_01",
+      "title": "Stanford CS144: Introduction to Computer Networking",
+      "provider": "Stanford University (Prof. Nick McKeown, Philip Levis)",
+      "licence": "CC BY-NC-SA 3.0 US",
+      "format": "Video Lectures & Lab Assignments (Building a TCP Router in C++)",
+      "duration": "10 weeks (30 hours)",
+      "url": "https://cs144.github.io/",
+      "source_url": "https://cs144.github.io/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_STANFORD_02",
+      "title": "Stanford CS143: Compilers",
+      "provider": "Stanford Online / Lagunita (Prof. Alex Aiken)",
+      "licence": "CC BY-NC 4.0",
+      "format": "Video Lectures & COOL (Classroom Object-Oriented Language) Compiler Project",
+      "duration": "10 weeks (35 hours)",
+      "url": "https://web.stanford.edu/class/cs143/",
+      "source_url": "https://web.stanford.edu/class/cs143/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_STANFORD_03",
+      "title": "Stanford CS221: Artificial Intelligence: Principles and Techniques",
+      "provider": "Stanford University (Prof. Percy Liang, Dorsa Sadigh)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Slides, Assignments & Python Pacman Projects",
+      "duration": "10 weeks (32 hours)",
+      "url": "https://stanford-cs221.github.io/",
+      "source_url": "https://stanford-cs221.github.io/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_BERKELEY_01",
+      "title": "Berkeley CS61B: Data Structures and Advanced Programming",
+      "provider": "UC Berkeley (Prof. Josh Hug)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, Java Homeworks, Projects & Autograder Tests",
+      "duration": "15 weeks (45 hours)",
+      "url": "https://sp21.datastructur.es/",
+      "source_url": "https://sp21.datastructur.es/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_BERKELEY_02",
+      "title": "Berkeley CS61C: Great Ideas in Computer Architecture (Machine Structures)",
+      "provider": "UC Berkeley (Prof. Dan Garcia)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, RISC-V Assembly Labs & Logisim Projects",
+      "duration": "15 weeks (45 hours)",
+      "url": "https://inst.eecs.berkeley.edu/~cs61c/",
+      "source_url": "https://inst.eecs.berkeley.edu/~cs61c/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_BERKELEY_03",
+      "title": "Berkeley CS162: Operating Systems and System Programming",
+      "provider": "UC Berkeley (Prof. John Kubiatowicz)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Lecture Webcasts, Pintos Operating System Projects & Exams",
+      "duration": "15 weeks (45 hours)",
+      "url": "https://cs162.org/",
+      "source_url": "https://cs162.org/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_BERKELEY_04",
+      "title": "Berkeley CS186: Introduction to Database Systems",
+      "provider": "UC Berkeley (Prof. Joseph M. Hellerstein)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "Video Lectures, RookieDB Java Implementation Labs",
+      "duration": "15 weeks (42 hours)",
+      "url": "https://cs186berkeley.net/",
+      "source_url": "https://cs186berkeley.net/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_CMU_01",
+      "title": "CMU 15-445/645: Database Systems",
+      "provider": "Carnegie Mellon University (Prof. Andy Pavlo)",
+      "licence": "CC BY-SA 4.0",
+      "format": "YouTube Lectures, BusTub C++ Database Engine Projects & Homeworks",
+      "duration": "14 weeks (40 hours)",
+      "url": "https://15445.courses.cs.cmu.edu/",
+      "source_url": "https://15445.courses.cs.cmu.edu/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_NAND2TETRIS_01",
+      "title": "From Nand to Tetris: Building a Modern Computer from First Principles",
+      "provider": "Hebrew University of Jerusalem / Coursera (Noam Nisan, Shimon Schocken)",
+      "licence": "CC BY-NC-SA 3.0",
+      "format": "Video Lectures, Hardware Simulator Software & 12 Capstone Projects",
+      "duration": "12 weeks (36 hours)",
+      "url": "https://www.nand2tetris.org/",
+      "source_url": "https://www.nand2tetris.org/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    },
+    {
+      "id": "RES_HARVARD_CS50",
+      "title": "CS50: Introduction to Computer Science",
+      "provider": "Harvard University (Prof. David J. Malan)",
+      "licence": "CC BY-NC-SA 4.0",
+      "format": "High-Definition Video Lectures, Problem Sets, Sandboxed Labs & Seminars",
+      "duration": "11 weeks (40 hours)",
+      "url": "https://cs50.harvard.edu/x/",
+      "source_url": "https://cs50.harvard.edu/x/",
+      "retrieved_on": "2026-11-11",
+      "source_type": "open-licence"
+    }
+  ],
+  "resource_skill_links": [
+    {
+      "resource": "RES_NPTEL_CS_01",
+      "skill": "SKILL_C_PROGRAMMING",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_NPTEL_CS_01",
+      "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_NPTEL_CS_02",
+      "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_02",
+      "skill": "SKILL_TREES_AND_HEAPS",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_03",
+      "skill": "SKILL_GRAPH_SEARCH",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_03",
+      "skill": "SKILL_DYNAMIC_PROGRAMMING",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_04",
+      "skill": "SKILL_OS_CONCURRENCY",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_04",
+      "skill": "SKILL_FILE_SYSTEMS",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_05",
+      "skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_05",
+      "skill": "SKILL_MEMORY_HIERARCHY",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_06",
+      "skill": "SKILL_AUTOMATA_THEORY",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_06",
+      "skill": "SKILL_COMPUTABILITY",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_07",
+      "skill": "SKILL_LEXICAL_PARSING",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_07",
+      "skill": "SKILL_CODE_GENERATION",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_08",
+      "skill": "SKILL_RELATIONAL_ALGEBRA",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_NPTEL_CS_08",
+      "skill": "SKILL_DATABASE_TRANSACTIONS",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_09",
+      "skill": "SKILL_NETWORK_PROTOCOLS",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_09",
+      "skill": "SKILL_ROUTING_CONGESTION",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_10",
+      "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_11",
+      "skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_NPTEL_CS_11",
+      "skill": "SKILL_PUBLIC_KEY_CRYPTO",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_NPTEL_CS_12",
+      "skill": "SKILL_DISCRETE_LOGIC",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_NPTEL_CS_12",
+      "skill": "SKILL_GRAPH_THEORY",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_01",
+      "skill": "SKILL_TREES_AND_HEAPS",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_01",
+      "skill": "SKILL_GRAPH_SEARCH",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_02",
+      "skill": "SKILL_DYNAMIC_PROGRAMMING",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_02",
+      "skill": "SKILL_NP_COMPLETENESS",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_03",
+      "skill": "SKILL_DIGITAL_LOGIC",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_03",
+      "skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_04",
+      "skill": "SKILL_OS_CONCURRENCY",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_04",
+      "skill": "SKILL_FILE_SYSTEMS",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_05",
+      "skill": "SKILL_COMPUTABILITY",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_05",
+      "skill": "SKILL_NP_COMPLETENESS",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_06",
+      "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_06",
+      "skill": "SKILL_REINFORCEMENT_LEARNING",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_MIT_OCW_07",
+      "skill": "SKILL_DISCRETE_LOGIC",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_07",
+      "skill": "SKILL_GRAPH_THEORY",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_MIT_OCW_08",
+      "skill": "SKILL_CRYPTOGRAPHY_SYMMETRIC",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_08",
+      "skill": "SKILL_PUBLIC_KEY_CRYPTO",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_09",
+      "skill": "SKILL_APPROXIMATION_ALGORITHMS",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_MIT_OCW_10",
+      "skill": "SKILL_LINUX_DEVOPS",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_STANFORD_01",
+      "skill": "SKILL_NETWORK_PROTOCOLS",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_STANFORD_01",
+      "skill": "SKILL_ROUTING_CONGESTION",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_STANFORD_02",
+      "skill": "SKILL_LEXICAL_PARSING",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_STANFORD_02",
+      "skill": "SKILL_CODE_GENERATION",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_STANFORD_03",
+      "skill": "SKILL_SEARCH_ALGORITHMS_AI",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_STANFORD_03",
+      "skill": "SKILL_REINFORCEMENT_LEARNING",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_BERKELEY_01",
+      "skill": "SKILL_LINEAR_DATA_STRUCTURES",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_BERKELEY_01",
+      "skill": "SKILL_TREES_AND_HEAPS",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_BERKELEY_02",
+      "skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_BERKELEY_03",
+      "skill": "SKILL_OS_CONCURRENCY",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_BERKELEY_04",
+      "skill": "SKILL_RELATIONAL_ALGEBRA",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_CMU_01",
+      "skill": "SKILL_DATABASE_TRANSACTIONS",
+      "level": "advanced"
+    },
+    {
+      "resource": "RES_NAND2TETRIS_01",
+      "skill": "SKILL_DIGITAL_LOGIC",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_NAND2TETRIS_01",
+      "skill": "SKILL_COMPUTER_ARCHITECTURE",
+      "level": "intermediate"
+    },
+    {
+      "resource": "RES_HARVARD_CS50",
+      "skill": "SKILL_C_PROGRAMMING",
+      "level": "introductory"
+    },
+    {
+      "resource": "RES_HARVARD_CS50",
+      "skill": "SKILL_LINUX_DEVOPS",
+      "level": "introductory"
+    }
+  ],
+  "modules_lessons": [
+    {
+      "id": "MOD_CS100_01",
+      "parent_id": "CSL100",
+      "order": 1,
+      "title": "C Syntax & Control Flow",
+      "summary": "Primitives, arithmetic, I/O functions, conditional branching, iteration constructs (while, for loops)."
+    },
+    {
+      "id": "MOD_CS100_02",
+      "parent_id": "CSL100",
+      "order": 2,
+      "title": "Functions, Pointers & Memory",
+      "summary": "Function stack frames, recursion, pointer arithmetic, dynamic memory allocation (malloc, free), array-pointer duality."
+    },
+    {
+      "id": "MOD_CS201_01",
+      "parent_id": "CSL201",
+      "order": 1,
+      "title": "Propositional & Predicate Logic",
+      "summary": "Truth tables, logical equivalences, normal forms (CNF/DNF), universal and existential quantifiers, proof by induction."
+    },
+    {
+      "id": "MOD_CS201_02",
+      "parent_id": "CSL201",
+      "order": 2,
+      "title": "Combinatorics & Graph Theory",
+      "summary": "Pigeonhole principle, inclusion-exclusion, recurrence relations, graph representations, Euler and Hamiltonian paths, planar graphs."
+    },
+    {
+      "id": "MOD_CS202_01",
+      "parent_id": "CSL202",
+      "order": 1,
+      "title": "Linear Structures & Sorting",
+      "summary": "Dynamic arrays, linked lists, stacks, queues, amortized analysis, comparison sorts and non-comparison sorting."
+    },
+    {
+      "id": "MOD_CS202_02",
+      "parent_id": "CSL202",
+      "order": 2,
+      "title": "Hierarchical Structures & Graphs",
+      "summary": "Binary trees, AVL trees, Red-Black balance invariants, binary heaps, disjoint-set union, BFS and DFS traversals."
+    },
+    {
+      "id": "MOD_CS251_01",
+      "parent_id": "CSL251",
+      "order": 1,
+      "title": "Processor Datapath & ALU",
+      "summary": "Register transfer language, arithmetic logic unit circuits, instruction encoding, assembly programming."
+    },
+    {
+      "id": "MOD_CS251_02",
+      "parent_id": "CSL251",
+      "order": 2,
+      "title": "Pipelining & Memory Subsystems",
+      "summary": "5-stage RISC pipeline, structural/data/control hazards, branch prediction, direct-mapped and set-associative caches."
+    },
+    {
+      "id": "MOD_CS252_01",
+      "parent_id": "CSL252",
+      "order": 1,
+      "title": "Greedy & Dynamic Programming Paradigms",
+      "summary": "Optimal substructure, overlapping subproblems, memoization vs tabulation, knapsack, LCS, matrix chain multiplication."
+    },
+    {
+      "id": "MOD_CS252_02",
+      "parent_id": "CSL252",
+      "order": 2,
+      "title": "Advanced Graph Algorithms & Intractability",
+      "summary": "Shortest paths (Dijkstra, Bellman-Ford), Max Flow (Ford-Fulkerson, Edmonds-Karp), NP-completeness proofs and reductions."
+    },
+    {
+      "id": "MOD_CS253_01",
+      "parent_id": "CSL253",
+      "order": 1,
+      "title": "Regular Languages & Finite Automata",
+      "summary": "DFA, NFA, epsilon transitions, subset construction, regular expressions, pumping lemma for regular languages."
+    },
+    {
+      "id": "MOD_CS253_02",
+      "parent_id": "CSL253",
+      "order": 2,
+      "title": "Computability & Turing Machines",
+      "summary": "Context-free grammars, pushdown automata, Turing machines, halting problem undecidability, Rice's theorem."
+    },
+    {
+      "id": "MOD_CS301_01",
+      "parent_id": "CSL301",
+      "order": 1,
+      "title": "CPU Scheduling & Virtual Memory",
+      "summary": "Process state lifecycle, PCB, context switching, round robin/MLFQ, multilevel page tables, TLBs, clock page replacement."
+    },
+    {
+      "id": "MOD_CS301_02",
+      "parent_id": "CSL301",
+      "order": 2,
+      "title": "Concurrency & Storage Systems",
+      "summary": "POSIX threads, mutexes, condition variables, semaphores, deadlock detection, disk scheduling, inode-based file systems."
+    },
+    {
+      "id": "MOD_CS302_01",
+      "parent_id": "CSL302",
+      "order": 1,
+      "title": "Scanning & Parsing",
+      "summary": "Lexical tokens, regular expressions to DFA, LL(1) parse tables, LR(0), SLR(1), LALR(1) parsing algorithms using Yacc/Bison."
+    },
+    {
+      "id": "MOD_CS302_02",
+      "parent_id": "CSL302",
+      "order": 2,
+      "title": "Optimization & Code Generation",
+      "summary": "Static Single Assignment (SSA) form, dead code elimination, loop invariant code motion, register allocation via graph coloring."
+    },
+    {
+      "id": "MOD_CS303_01",
+      "parent_id": "CSL303",
+      "order": 1,
+      "title": "Relational Modeling & Query Languages",
+      "summary": "ER to relational schema mapping, tuple and domain relational calculus, relational algebra operators, complex SQL queries."
+    },
+    {
+      "id": "MOD_CS303_02",
+      "parent_id": "CSL303",
+      "order": 2,
+      "title": "Normalization & Transaction Recovery",
+      "summary": "Armstrong's axioms, 3NF synthesis, BCNF decomposition, strict two-phase locking, ARIES write-ahead logging."
+    },
+    {
+      "id": "MOD_CS304_01",
+      "parent_id": "CSL304",
+      "order": 1,
+      "title": "Heuristic Search & Adversarial Games",
+      "summary": "Admissible and consistent heuristics, A* optimality, alpha-beta minimax pruning, constraint satisfaction with AC-3."
+    },
+    {
+      "id": "MOD_CS304_02",
+      "parent_id": "CSL304",
+      "order": 2,
+      "title": "Probabilistic Reasoning & Reinforcement Learning",
+      "summary": "Bayesian networks, d-separation, variable elimination, Markov decision processes, Bellman optimality, tabular Q-learning."
+    },
+    {
+      "id": "MOD_CS351_01",
+      "parent_id": "CSL351",
+      "order": 1,
+      "title": "Transport Protocols & Congestion Management",
+      "summary": "TCP 3-way handshake, sliding window flow control, congestion window dynamics (AIMD, slow start, fast recovery, BBR)."
+    },
+    {
+      "id": "MOD_CS351_02",
+      "parent_id": "CSL351",
+      "order": 2,
+      "title": "Internet Routing & Data Link Technologies",
+      "summary": "CIDR, IPv4/IPv6 headers, link-state vs distance-vector routing, BGP peering, Ethernet CSMA/CD, Wi-Fi 802.11 CSMA/CA."
+    },
+    {
+      "id": "MOD_CSP352_01",
+      "parent_id": "CSP352",
+      "order": 1,
+      "title": "LLM Interfaces & Structured Tool Calling",
+      "summary": "Prompt patterns for software engineering, JSON schema enforcement, function calling registries, deterministic parsing."
+    },
+    {
+      "id": "MOD_CSP352_02",
+      "parent_id": "CSP352",
+      "order": 2,
+      "title": "Agentic Workflows & Safety Sandboxing",
+      "summary": "ReAct execution loops, multi-step error recovery, trace logging, human-in-the-loop approvals, sandboxed command execution."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "EX_DSA_01",
+      "skill": "SKILL_TREES_AND_HEAPS",
+      "difficulty": "medium",
+      "question": "Given an unbalanced Binary Search Tree with n nodes, explain how AVL tree rotations maintain the O(log n) height invariant upon inserting a key that causes an imbalance factor of +2 at node P with a left child having balance factor -1.",
+      "answer_key": "This corresponds to a Left-Right (LR) imbalance case. The restoration requires a double rotation: first a Left Rotation on the left child of P, converting the tree into a Left-Left (LL) case, followed immediately by a Right Rotation on node P. Both rotations update balance factors and restore strict AVL height balance in O(1) rotation time."
+    },
+    {
+      "id": "EX_ALGO_02",
+      "skill": "SKILL_DYNAMIC_PROGRAMMING",
+      "difficulty": "medium",
+      "question": "Formulate the Bellman recurrence relation for the 0/1 Knapsack Problem with capacity W and items (w_i, v_i). State the space complexity optimization technique.",
+      "answer_key": "Recurrence: DP[i, w] = DP[i-1, w] if w_i > w; else max(DP[i-1, w], DP[i-1, w - w_i] + v_i), with base case DP[0, w] = 0. Space can be optimized from O(n*W) to O(W) using a single 1D array traversed backwards from W down to w_i to avoid overwriting values needed from the previous iteration."
+    },
+    {
+      "id": "EX_OS_03",
+      "skill": "SKILL_OS_CONCURRENCY",
+      "difficulty": "hard",
+      "question": "Explain the four Coffman conditions necessary for a deadlock to occur. How does the Banker's algorithm prevent deadlock by denying requests that lead to unsafe states?",
+      "answer_key": "The four Coffman conditions are: 1. Mutual Exclusion, 2. Hold and Wait, 3. No Preemption, 4. Circular Wait. The Banker's algorithm runs a safety check before granting any resource allocation: it simulates allocating the requested resources and verifies whether there exists at least one sequence of process completions where all remaining claims (Need matrix <= Work vector) can be satisfied without deadlock."
+    },
+    {
+      "id": "EX_TOC_04",
+      "skill": "SKILL_AUTOMATA_THEORY",
+      "difficulty": "easy",
+      "question": "Use the Pumping Lemma for Regular Languages to demonstrate that L = {0^n 1^n | n >= 0} is not regular.",
+      "answer_key": "Assume L is regular with pumping length p. Choose string s = 0^p 1^p in L (|s| = 2p >= p). According to the lemma, s = xyz with |xy| <= p and |y| >= 1. Since |xy| <= p, y consists entirely of 0s (y = 0^k, k >= 1). Pumping with i = 2 gives xy^2z = 0^(p+k) 1^p. Since k >= 1, the number of 0s exceeds the number of 1s, so xy^2z is not in L, contradicting regularity. Thus, L is not regular."
+    },
+    {
+      "id": "EX_NET_05",
+      "skill": "SKILL_ROUTING_CONGESTION",
+      "difficulty": "medium",
+      "question": "In TCP Reno congestion control, what triggers Fast Retransmit and Fast Recovery, and how is the Congestion Window (cwnd) adjusted compared to a timeout event?",
+      "answer_key": "Fast Retransmit is triggered upon receiving 3 duplicate ACKs (4 identical ACKs total), signaling that a single packet was lost while subsequent packets arrived out-of-order. Instead of dropping cwnd to 1 MSS (as in a timeout), TCP Reno sets ssthresh = cwnd / 2, sets cwnd = ssthresh + 3 MSS (Fast Recovery), retransmits the missing segment, and increments cwnd by 1 MSS for each additional duplicate ACK received until an ACK acknowledging the new data arrives."
+    }
+  ]
+}

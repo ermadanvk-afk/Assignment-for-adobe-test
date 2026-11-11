@@ -209,3 +209,4 @@ The repository includes a modern, high-performance web dashboard built in Next.j
 4. **Open Educational Resources**: 32 curated OER courses (NPTEL, MIT OCW, Berkeley) with licenses and duration.
 5. **Student Rules Engine Simulator**: Interactive tool to test credit limits, prerequisite clearance, and minor/honours eligibility.
 6. **Chunk Inspector**: Preview of the 130 chunks ready for vector embedding.
+

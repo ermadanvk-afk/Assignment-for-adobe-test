@@ -161,3 +161,4 @@ def parse_and_normalise(raw_payload: Dict[str, Any]) -> Dict[str, List[Any]]:
         "modules_lessons": parsed_modules,
         "exercises": parsed_exercises,
     }
+

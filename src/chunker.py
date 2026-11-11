@@ -201,3 +201,4 @@ def build_retrieval_chunks(entities: Dict[str, List[Any]]) -> List[Chunk]:
 
     logger.info("Generated %d retrieval-ready chunks.", len(chunks))
     return chunks
+

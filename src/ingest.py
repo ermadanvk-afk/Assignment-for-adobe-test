@@ -48,3 +48,4 @@ def ingest_raw_data() -> Dict[str, Any]:
         len(raw_payload.get("skills", [])),
     )
     return raw_payload
+

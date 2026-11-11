@@ -197,3 +197,4 @@ def validate_pipeline_data(entities: Dict[str, List[Any]]) -> ValidationReport:
 
     logger.info("All %d validation checks passed successfully!", report.checks_run)
     return report
+

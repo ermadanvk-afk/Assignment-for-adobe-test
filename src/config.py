@@ -23,3 +23,4 @@ INSTITUTE_NAME = "Indian Institute of Technology Bhilai"
 PROGRAM_NAME = "B.Tech in Computer Science and Engineering"
 DEFAULT_SOURCE_URL = "https://iitbhilai.ac.in/index.php?pid=new_schedule_programs"
 UG_MANUAL_SOURCE_URL = "https://www.iitbhilai.ac.in/index.php?pid=ug_manual"
+

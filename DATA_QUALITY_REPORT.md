@@ -72,3 +72,4 @@ To independently verify the authenticity of any record:
 2. **Academic Rule Verification**: Pick rule `RULE_NPTEL_MAX_CREDITS`. Open `data/raw/iit_bhilai_ug_manual.pdf` at page 30, Section 3.2.1: verify that students are allowed to opt for a maximum of 6 credits from MOOC-based portals during their undergraduate program.
 3. **Open Resource Verification**: Pick resource `RES_MIT_OCW_01`. Open the direct link `https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/` and verify that the course is published under Creative Commons `CC BY-NC-SA 4.0`.
 4. **One-Command Automated Verification**: Run `python -m pytest tests/` in terminal to execute all 6 automated integration tests.
+

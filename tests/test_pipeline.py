@@ -88,3 +88,4 @@ def test_chunking_preserves_metadata(valid_payload):
     assert len(rule_chunks) == len(entities["academic_rules"])
     for r in rule_chunks:
         assert "category" in r.filter_metadata
+

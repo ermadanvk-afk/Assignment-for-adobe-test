@@ -129,3 +129,4 @@ class Chunk(BaseModel):
     filter_metadata: Dict[str, Any] = Field(default_factory=dict, description="Metadata key-value pairs for vector DB filtering")
     source_url: str = Field(..., description="Direct citation URL for traceability")
     retrieved_on: str = Field(..., description="ISO 8601 retrieval date")
+

@@ -57,3 +57,4 @@ Rather than relying purely on vector similarity—which frequently hallucinates 
 > **"If I miss my mid-semester exam for an external hackathon, will the department conduct a makeup exam for me?"**
 
 - **Why it cannot answer**: While the buddy can cite **Rule `RULE_MINIMUM_ATTENDANCE`** (75% mandatory attendance) and **UG Manual §2.3.6** (prohibition of outside participation during academic probation), re-examination requests fall under the ad-hoc discretionary authority of individual course instructors and the Department Undergraduate Committee (DUGC). Static regulatory documents do not contain minutes of discretionary committee approvals.
+

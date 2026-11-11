@@ -63,3 +63,4 @@ Over 30 open educational resources were selected from accredited open course rep
 - **Zero Student Data**: Absolutely no private student records, transcripts, grades, or identifying details are present or harvested.
 - **Open Educational Licenses**: All external pedagogical resources carry recognized Creative Commons attribution licenses (`CC BY-NC-SA 4.0`, `CC BY-NC-SA 3.0`, or `CC BY-SA 4.0`).
 - **Reproducibility Guarantee**: Every listed canonical URL was validated over HTTPS on 2026-11-11.
+

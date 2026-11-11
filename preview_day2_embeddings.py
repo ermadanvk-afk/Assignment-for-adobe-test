@@ -67,3 +67,4 @@ def inspect_day2_readiness():
 
 if __name__ == "__main__":
     inspect_day2_readiness()
+

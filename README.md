@@ -1,22 +1,31 @@
 # IIT Bhilai B.Tech CSE — Source-Traced Knowledge Base & Data Pipeline
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-adobe--hazel.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://adobe-hazel.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ermadanvk-afk/Assignment-for-adobe-test)
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Pydantic v2](https://img.shields.io/badge/pydantic-v2.12-green.svg)](https://docs.pydantic.dev/)
 [![Pipeline Tests](https://img.shields.io/badge/pytest-passing-success.svg)](https://pytest.org/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fermadanvk-afk%2FAssignment-for-adobe-test)
 
 > **Adobe PS: 1-Day Selection Assignment**  
 > Complete source-traced knowledge base and reproducible data pipeline for the **Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE)** program at the **Indian Institute of Technology Bhilai (IIT Bhilai)**, stopping right before the embedding step.
 
 ---
 
-## 🚀 Live Interactive Web Dashboard
+## 🌐 Live Application & Demo Links
 
-- **Live Vercel Deployment**: [https://nimble-hawthorn-lt7vykw.tmp.now](https://nimble-hawthorn-lt7vykw.tmp.now)
-- **Claim & Persist to Your Vercel Account**: [Claim Deployment Link](https://vercel.com/claim-deployment?code=14d77ca5-fd6c-4369-8bff-23e4f085afbe) *(click to bind permanently to your personal Vercel team)*
-- **1-Click Permanent Vercel Deploy**: Click the **Deploy with Vercel** button above or import repository `https://github.com/ermadanvk-afk/Assignment-for-adobe-test` at [vercel.com/new](https://vercel.com/new).
-- **GitHub Pages Live App**: [https://ermadanvk-afk.github.io/Assignment-for-adobe-test/](https://ermadanvk-afk.github.io/Assignment-for-adobe-test/) *(after enabling Pages in repo settings)*.
+- 🔗 **Official Live Production Web App**: **[https://adobe-hazel.vercel.app/](https://adobe-hazel.vercel.app/)**
+- 📂 **GitHub Repository**: **[https://github.com/ermadanvk-afk/Assignment-for-adobe-test](https://github.com/ermadanvk-afk/Assignment-for-adobe-test)**
+- 🌐 **GitHub Pages Mirror**: [https://ermadanvk-afk.github.io/Assignment-for-adobe-test/](https://ermadanvk-afk.github.io/Assignment-for-adobe-test/)
+
+> **Features Available on Live App:**
+> 1. **Course Catalogue Explorer**: Filter 27 IIT Bhilai B.Tech CSE courses by semester, category, credits, and syllabus topics.
+> 2. **Prerequisite DAG Visualizer**: Interactive graph explorer tracing hard vs. recommended prerequisites and unlocked courses.
+> 3. **Academic Rules & Scenario Simulator**: Interactive engine testing semester credits against underload/overload caps (§2.4.2), prerequisite clearance (§2.2.5), and Honours/Minor eligibility (§3.2.2).
+> 4. **Open Educational Resources**: 32 curated open courses (NPTEL, MIT OCW, Berkeley, Stanford) mapped to courses & skills with licenses.
+> 5. **Day-2 Embedding Chunks Inspector**: Searchable explorer of all 130 chunks with token counts and filter metadata.
+> 6. **Data Quality & Provenance Audit**: Full validation report showing 10/10 automated checks passing.
 
 
 ---
